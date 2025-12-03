@@ -4,8 +4,8 @@ img: logo.png # Add a file with your site's logo on /assets/img/tema
 background: pattern.png # Add a file with your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
 email : proyectomorel@gmail.com
-github : morelrep
-twitter : 
+github : febr3s
+twitter : febr3s
 instagram:
 # remote_theme: morelrep/morel-theme
 podcast: true # Set to true if you want to enable podcast or blog support
