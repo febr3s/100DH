@@ -1,0 +1,8 @@
+---
+title: description
+lang: en
+---
+{{site.title}} es una bitácora en español de la serie #100DaysOfDH que publico en plataformas digitales. Esta ha sido la manera que he encontrado de volver a tomar periódicamente la palabra en la infoesfera. Si no le gusta, tendré otras.
+
+<!-- more -->
+
