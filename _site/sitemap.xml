@@ -109,13 +109,6 @@
         <priority>0.5</priority>
     </url>
     
-    <url>
-        <loc>http://localhost:4000/2023/07/24/hola-world.html</loc>
-        <lastmod>2023-07-24</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
 
     
           <!-- Avoid duplication with posts -->

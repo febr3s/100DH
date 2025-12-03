@@ -1,43 +1,36 @@
-# Build your MOREL website from a Zotero collection in 10 simple steps
-1. **Check if you have the requirements**
-  - A [Zotero account](https://www.zotero.org/user/register/)
-  - A [GitHub account](https://github.com/signup)
-2. **Prepare the Zotero Fields** for a MOREL website. MOREL items are added in the same way that items are added in any [Zotero library](https://www.zotero.org/support/adding_items_to_zotero). In its current version, MOREL can only process items of type `book`. Since not all the fields needed for MOREL are available for the `book` content type, some considerations must be made:
-  - Excerpt: the fragment from each MOREL record corresponds to the `notes` of Zotero (see the [documentation](https://www.zotero.org/support/notes) about Zotero notes). In its current version, MOREL *only accepts one excerpt per book*.
-  - Cover: the cover is a jpg file that is added as an `attachment` to the Zotero item (see the Zotero attachments [documentation](https://www.zotero.org/support/attaching_files)).
-3. **[Fork](https://github.com/morelrep/morel-no-code-generator/fork) this repository** — that is, [create a copy](https://github.com/morelrep/morel-no-code-generator/fork) in your [GitHub](https://github.com) account.
-4. **Go to the `actions` tab** and enable workflows.
-5. **Open `_config.yml`** and change:
-   - The `title` to your site's.
-   - The `tagline` to your site's.
-   - The `email` and/or social media accounts to your site's.
-   - The `jotform` link (create your free account at https://www.jotform.com/). 
-  > The Jorform account is to receive contributions from users
-6. **Wait for the site to build**. Go to the `actions` tab, and wait for the workflow icon run to turn green. Sometimes GitHub gets slow. If it takes too long to build, or it fails, wait a couple of hours and edit the `_config.yml` file again to trigger the process.
+# Me uní al reto #100DaysOfCode
 
-![alt text](assets/img/tema/workflow.png)
+## Tabla de contenidos
 
-7. **Replace or add to `assets/img/tema`** your preferred:
-   - logo.png
-   - pattern.png
-   - avatar.png
-8. **Go to the `settings` tab**, open the `pages` section, and select `gh-pages` as the branch that will build the site.
+* [Reglas](reglas.md)
+* [Diario - haga clic aquí para ver mi progreso](diario.md)
+* [Preguntas frecuentes](preguntas_frecuentes.md)
+* [Recursos](recursos.md)
 
-9. **Open the file `_abouts/site-description.md`** and write a description for your site. The `<!-- more -->` line separates what appears in the footer across all pages from the longer description that appears on the `about` page only.
-10. **Generate the content from Zotero** by [exporting a collection](https://forums.zotero.org/discussion/5286/can-one-export-a-collection-and-not-the-entire-library), subcollection or library as a `csv` file, and replacing the content of `assets/data/books_zotero.csv`.
-# Other features
-To add cover images to your MOREL site, follow these steps:
-1. Add a cover image to your item in your Zotero library by dragging it as an attachment
-2. Clone the repository in a local folder
-3. Create a Python environment from the root of the folder using ```python3 -m venv assets/env```
-4. Run ```source assets/env/bin/activate```
-5. Run ```pip install r requirements.txt``
-6. Export your library or collection from Zotero as .csv file, and save it as `assets/data/books_zotero.csv`. Remember to check the "add notes" option to add excerpts.
-7. Run ```python3 assets/env/src/morel-generate.py```
-8. Commit your changes **adding ```[skip ci]``` to the commit message**.
-9. Push your changes to GitHub.
-# To add cover images with no code
-For a MOREL no-code generator with cover images drawn from a Zotero library you can:
+## Translations
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
-- [Request an invoice](mailto:proyectomorel@gmail.com) for a customized service
-- [Promote this project](https://www.addtoany.com/share#url=http%3A%2F%2F127.0.0.1%3A4000%2Fmorel-no-code-generator%2F&title=%7C%20MOREL%20no-code%20website%20generator) to find code contributors that help develping this feature.
+## Si ha decidido unirse:
+
+0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://www.100daysofcode.com/slack) un enlace de invitación al canal de Slack.
+1.  Lea [Unirse a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+1.  Bifúrquese (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
+1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**
+1.  **¡Incentive al menos a otras dos personas en el reto en Twitter cada día! Devuelva el favor a alguien más.**
+1.  Cambie el día en [reglas](reglas.md) al día en que empezó el reto.
+1.  Elimine o comente los ejemplos en el diario, y empiece a llenarlo con su propio contenido.
+1.  **Tuitee su progreso cada día usando el hashtag #100DaysofCode**
+1.  Siga al bot de Twitter [100DaysOfCode](https://twitter.com/_100DaysOfCode) que retuitea los tuits que contienen el hashtag #100DaysOfCode. Es una manera excelente de motivarse a sí mismo y de participar en la comunidad. Agradecimientos a [@amanhimself](https://twitter.com/amanhimself) por crearlo.
+1.  Importante: (mire numero 4 anterior para más detalles) Incentive otra gente que esté participando en el mismo reto en Twitter o en otro lugar — dándoles apoyo cuando publiquen actualizaciones o su progreso, y dándoles apoyo cuando tengan dificultades. De esta manera creceremos como un comunidad servicial y eficaz, teniendo un tasa de éxito mayor por cada persona involucrada. También es más probable que esté más dedicado a su propio compromiso dado a conocer a un par de personas (o más) inmediatamente.
+1.  Si encuentra un recurso excelente y útil del que otros se beneficiarían haga un pull request para agregarlo al repositorio o simplemente tuitarme (consulte la información a continuación).
+
+## ¿Quieres cambiar otros hábitos?
+
+Mira [el proyecto reto #100DaysOfX](http://100daysofx.com/). Cambiando sus hábitos está cambiando su vida. Recuerde que el mejor tiempo empezar siempre será ahora.
+
+Le recomiendo que se comprometa con no más de 2 o 3 retos a la vez, idealmente 2. Si está haciendo el # 100DaysOfCode que implica mucha actividad mental, pruebe el [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), o [#100DaysOfFitness](http://100daysofx.com/challenges/). ¡Hay mucho más en el sitio web, compruebe todas las opciones y elija los hábitos que desea cambiar! Idiomas, escritura, meditación, llevar un diario, cocina y más.
+
+## Nota
+
+* Si tienes preguntas o ideas sobre 100DaysOfCode (u otras ideas), no duda en contactarme en Twitter: [@ka11away](https://twitter.com/ka11away)
+* Si le gusta este repositorio y lo encuentra útil, por favor, considera &#9733; darle un estrella (en la parte superior derecha :)

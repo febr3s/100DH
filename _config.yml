@@ -12,7 +12,7 @@ podcast: true # Set to true if you want to enable podcast or blog support
 jotform: https://form.jotform.com/211904785426056
 
 # If you want to change the name of the repo, update the BASE_PATH name. Also, if you are going to use the MOREL repo as your main github page (e.g. `myuser.github.io`) comment this line
-BASE_PATH: /morel-no-code-generator
+BASE_PATH: /100DH
 
 # ADD AN X OR DELETE IT AND COMMIT IN ORDER TO UPDATE YOUR SITE
 
