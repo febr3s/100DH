@@ -1,0 +1,35 @@
+commit ec89524297e82166d476a915f589788079f56e30
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 12:11:09 2025 -0500
+
+    csv files with descriptions added
+
+commit f425c4a5a67a78fb3d8c1944910151afbc5eeaf4
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:54:59 2025 -0500
+
+    refined prompt implemented succesfuly on main.py
+
+commit 9a1d7dcdd454f696092b706c390e95977e1ac7d4
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:32:45 2025 -0500
+
+    old test is new main
+
+commit b3bd2d9600bf96fd982c0edd6ff9792d4a860b6d
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:32:09 2025 -0500
+
+    improved prompting succesful in test.py
+
+commit 48361e524623d29f30ff2e1929825c457ce5ffb6
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:29:52 2025 -0500
+
+    old test is new main
+
+commit 907c532dc212b191f23d7adbbdc63ca231a2bc91
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:29:01 2025 -0500
+
+    description is succesfully being add on test.py

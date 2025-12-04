@@ -1,0 +1,23 @@
+commit 342252d03948ec5421faf834525bab257c8d15c6
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 13:21:15 2025 -0500
+
+    escalation discussed and test scripts created, ready to test in the test folder
+
+commit adc95d7f45dfa1fb76aef02936446d9fcd2f4137
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 18:37:31 2025 -0500
+
+    scraping item and importing to Zotero achieved!!!
+
+commit f4a66726b2e6c36c6c5b2a11e9d512b8eff1d287
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 16:18:55 2025 -0500
+
+    working on bibtext to parse after JSON and importing to Zotero
+
+commit f8aa900e3a2af68d5ecc996d15efbecc1c434b64
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 15:35:00 2025 -0500
+
+    added gitignore and fields are being extracted correctly

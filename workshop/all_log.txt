@@ -1,0 +1,3523 @@
+
+commit 342252d03948ec5421faf834525bab257c8d15c6 [source: bolivar_scr_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 13:21:15 2025 -0500
+
+    escalation discussed and test scripts created, ready to test in the test folder
+
+commit adc95d7f45dfa1fb76aef02936446d9fcd2f4137 [source: bolivar_scr_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 18:37:31 2025 -0500
+
+    scraping item and importing to Zotero achieved!!!
+
+commit f4a66726b2e6c36c6c5b2a11e9d512b8eff1d287 [source: bolivar_scr_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 16:18:55 2025 -0500
+
+    working on bibtext to parse after JSON and importing to Zotero
+
+commit f8aa900e3a2af68d5ecc996d15efbecc1c434b64 [source: bolivar_scr_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 19 15:35:00 2025 -0500
+
+    added gitignore and fields are being extracted correctly
+
+commit c9f926109c88ebf6f9c89eb2326b913efac08dec [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Dec 2 11:07:50 2025 -0500
+
+    updated debugging file, and prepared gitattributes to merge with theme updates
+
+commit 18bcbcc2ec8f17dcb015ee61eb6375c4a3a50a7c [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Nov 27 09:31:18 2025 -0500
+
+    .
+
+commit 57416a91d2f21a7782cf6805019f1e802d8bb374 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Nov 27 09:19:35 2025 -0500
+
+    site building well with some wawnings and bugs
+
+commit 643afec53c36107091d4e87b0ecf4a47837323a0 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 26 17:45:24 2025 -0500
+
+    merged with fixed criteria
+
+commit 3e77ffe0f6a8376fca397d41a2e735e72406a713 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 16:45:58 2025 -0500
+
+    merged into fixed criterias and added steps in post folder
+
+commit 2fa98e8781c5b67eaf347b2d079c592fb2ec9f55 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 16:41:25 2025 -0500
+
+    corrected wrong plural
+
+commit 582816699b877ac8ea34e9b7f88387cecd2a7b2c [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 16:31:14 2025 -0500
+
+    corrected criteria
+
+commit 04bdbaf26947a00d26bba0763afc1a8f9e28f6ac [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 16:23:22 2025 -0500
+
+    copied theme files
+
+commit 4c1503778e8828931bd5e1288fa0b8a5edd49bec [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 16:07:43 2025 -0500
+
+    copied theme files
+
+commit 2deeda4370d5806298f1eb9c21d8f4ae332118e5 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 18 17:44:05 2025 -0500
+
+    update readme
+
+commit ddaf2c3de12594c7db417c81a9a9a2dd79fed799 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 18 17:41:02 2025 -0500
+
+    10 steps fix on readme
+
+commit 7148ba657aaca3bb6b25404e18ecde2f4b703975 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 18 17:39:54 2025 -0500
+
+    readme
+
+commit 5c011d0b58aaa7b914d38685df93d828987a1ca8 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Nov 13 17:24:40 2025 -0500
+
+    Update _config.yml
+
+commit 99ec06e2401d8191945e6f70fe1e41baa7f6a2c3 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Nov 9 14:34:35 2025 -0500
+
+    added a sample cover
+
+commit 9559819215b40749d1ace0d3d46202b2e8a76d7f [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Nov 7 05:29:23 2025 -0500
+
+    h2 size adjustment
+
+commit 7c1b1c28df8004545386e2a12e6add60538ce231 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Nov 7 05:22:45 2025 -0500
+
+    search function adjusted
+
+commit 3582dd6a72aa40a2a93c8432221ecf1eeb39ffaa [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 19:29:01 2025 -0500
+
+    trigger
+
+commit de1e9db536b5633966e5f10bebca7e48db9264df [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 19:21:48 2025 -0500
+
+    content [skip ci]
+
+commit d2ab530bc5db37023532bc5fde535f997dd5a67b [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 18:08:31 2025 -0500
+
+    README.md
+
+commit 3f4793a561ff75fb3144d9f6c58803542d67478a [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 18:00:36 2025 -0500
+
+    updated workflows
+
+commit afb9e1b2db882e01e5e7a00ac1a532e6da5cf1b0 [source: dariah_history]
+Merge: 6ab1071 0aaf871
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:58:08 2025 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-no-code-generator
+
+commit 6ab107175bd43c43274421f61fafbaf45748280d [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:56:46 2025 -0500
+
+    updated readme
+
+commit 0aaf87194e11cbfcda3860f20c99359fcdcbe7c9 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Fri Oct 31 17:49:27 2025 -0500
+
+    Remove 'X' from UPDATE in _config.yml
+    
+    Removed the 'X' from the UPDATE line in the configuration.
+
+commit ade296e5a7e087b4eedb7bbc33b06093f4070185 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:47:40 2025 -0500
+
+    new content generation [skip ci]
+
+commit 521377ace869e499cf3a55cd6e855499ad323425 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 31 22:40:09 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit aa001ebcf8d067866db386a4c845f6d12fa51389 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:39:00 2025 -0500
+
+    _config.yml
+
+commit f256c2f8d800dfea654214d388ebc9f11922f6e0 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:37:53 2025 -0500
+
+    fixed workflow
+
+commit 3dc36b456ce1eb56f168a0baa60026abd6abe7e1 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 14:00:00 2025 -0500
+
+    generated content with images
+
+commit 4517db20b53f4305c8b035bff3e46896d353f8d3 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 13:54:48 2025 -0500
+
+    update readme
+
+commit 07c7ec41213de6ec96d7b3d2183fcb308bcfd0ec [source: dariah_history]
+Merge: 4ffe192 60e4fe5
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:31:28 2025 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-no-code-generator
+
+commit 4ffe192f70c9723c805e99f7a3c45009e6ba37e4 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:26:55 2025 -0500
+
+    layout
+
+commit 60e4fe552602654f2ffbc2499c5ccf92e98f9c4f [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 31 00:21:22 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 37393be8cd728552fa36cff116cfc237ec6d3a8b [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 30 19:20:43 2025 -0500
+
+    Update books_zotero.csv
+
+commit 22fc53ff3e084c67a60b23001a885f82a4ad81b0 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 30 19:10:45 2025 -0500
+
+    Remove 'X' from UPDATE field in _config.yml
+    
+    Removed the 'X' from the UPDATE field in the config.
+
+commit 55bcdaeb0a9e160a2d354f6788996816c9a97aa8 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:02:22 2025 -0500
+
+    updated content
+
+commit 1cc52018e683587cae0491c35e8bed314b9ddea5 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 18:42:46 2025 -0500
+
+    s
+
+commit 0b11d178b30ed766780c5a4b73fc22c44e353202 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 18:42:34 2025 -0500
+
+    eliminated all scripts. First commit before trying image_generate.py
+
+commit 3c335c89e42d5e1a76810e0b70ef5213a9401fc9 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Oct 29 09:35:13 2025 -0500
+
+    blog and installation instructions styles
+
+commit df7a13d03ebe3c1e7dcc4727c22ad84027c509de [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Oct 26 20:45:49 2025 -0400
+
+    researched conditionals for displaying metadata on hover or not, and decided to display them all by default by the moment
+
+commit 6e0fe6df44cac9b968e3378fbe29cd737397f505 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Oct 25 22:01:25 2025 -0500
+
+    a
+
+commit 917d9aeb5f64932b00d38e350e53cc44cb9a79be [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Oct 25 21:35:18 2025 -0500
+
+    adding a presentation to the project
+
+commit e4504a097f2f8ab321d1a3dc6245d25503402253 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 23 22:15:06 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 3b3ea857a9d3212248de634b943779bcfac314ba [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 23 18:14:22 2025 -0400
+
+    Revise site description for MOREL project
+    
+    Updated the site description for clarity and conciseness.
+
+commit 1303a7fde93f55b58850b9faebe92eb8b10916c1 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 23 18:04:06 2025 -0400
+
+    Update tagline in configuration file
+
+commit 0601abdb389b2795ad36c080fe79a366728ed2e3 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:29:13 2025 -0400
+
+    Mark site update as completed
+
+commit 60c75476ad1d3e1eb7c6b26fef2521d5c30e7e8f [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:28:45 2025 -0400
+
+    Update README.md
+
+commit 4de5cd008d55874bea474c1a770e9f5ed7290b3c [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:27:26 2025 -0400
+
+    Revise README for MOREL website setup instructions
+    
+    Updated README to provide clear instructions for building a MOREL website from a Zotero collection, including steps for customization and content generation.
+
+commit be76eee5012cffc41085f32f8656dc6a0a6e022e [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 17:30:09 2025 -0400
+
+    Update site title, tagline, and email address
+
+commit 73781653f29d5b05e7f22c74ba2553f6b37157c4 [source: dariah_history]
+Merge: 06a7660 11ca7e4
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 17:26:30 2025 -0400
+
+    Merge pull request #1 from saransuri/main
+    
+    Completing all steps to generate content without code
+
+commit 11ca7e444992cca30a3e0758d832ab9b6937c950 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 21:18:08 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 0370d9c5464b931a08ea50926e27f7b645d182cf [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 17:17:32 2025 -0400
+
+    Update books_zotero.csv
+
+commit b67e41c4ff58072e993901bdc3799a564d12dd8d [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 17:17:08 2025 -0400
+
+    Update cleanup_output.py
+
+commit f9c6d833c0a26d47e7c46465b71f849d3afa5b9c [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 20:59:18 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 55c253d987fc7e5b045245c4316ace7cf38e4660 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:58:40 2025 -0400
+
+    Update books_zotero.csv
+
+commit 0c86f3610bf6ec75e10482870bba749257b7ac19 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:56:43 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 359de620f506d4af4e6af721477fb38a8c1f0fbf [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:50:46 2025 -0400
+
+    Update config-build.yml
+
+commit b295c11bc135b86193ab33365c3206b1dc87ac0b [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:45:43 2025 -0400
+
+    Update _config.yml
+
+commit 22d4ca972944c0dabf7716116784fd810e4d41bd [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 20:44:49 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 8304e0ecd13e54a688e793459c8da668bc07a3c6 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:44:10 2025 -0400
+
+    Update books_zotero.csv
+
+commit 14833ebe6e05e84686ffd5832320838bb978a07c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:43:38 2025 -0400
+
+    Update copy_img.py
+
+commit 0501baae4e7889b5edad766f5178ec5d130bd3de [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:57:39 2025 -0400
+
+    Update _config.yml
+
+commit eeb2ab19484b8dc9dec0e6e77d1604d028a8cf58 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:35:35 2025 -0400
+
+    Update _config.yml
+
+commit c8c2e573b3c55dea91f31767c2d500bfc3b3e857 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:35:05 2025 -0400
+
+    Update config-build.yml
+
+commit e9c9af520a02a88b908589115c40f6da65276bb6 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:24:09 2025 -0400
+
+    Update _config.yml
+
+commit e5f0d474b91222819e2753cc50826efa00cfed03 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:20:25 2025 -0400
+
+    Update _config.yml
+
+commit a8858d6a697664cfa4ac31f098de3e31c9541e8f [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:20:15 2025 -0400
+
+    Update config-build.yml
+
+commit ed35becaddef49704978220a37f0d05211a15fd6 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:12:50 2025 -0400
+
+    Update _config.yml
+
+commit 3b3190ca5e7b9e320b61ab8e1aca1172c8a86d11 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:12:36 2025 -0400
+
+    Update config-build.yml
+
+commit 5697292b29e5af01586d38274191c0f58cc65d5c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:52:36 2025 -0400
+
+    Update _config.yml
+
+commit 3f740fa5a8a56dc8c0c12d90838a2e10a8315848 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:52:07 2025 -0400
+
+    Update config-build.yml
+
+commit 811699534f2a0449dd3485b70ef05043c7f1e39f [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:44:45 2025 -0400
+
+    Update _config.yml
+
+commit 5cbce0515c33834812c81605a647a17e2afeff92 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:35:36 2025 -0400
+
+    Update cleanup_output.py
+
+commit d9aeaf461a476eaecb68a8db1e615ac41ef893c2 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 18:31:34 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 4266607363611879b2dfa23750a94774eeeef45c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:30:55 2025 -0400
+
+    Update books_zotero.csv
+
+commit 9ac8f221b2b07cb702312d4d8c2adc5567251813 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:30:07 2025 -0400
+
+    Create books_zotero.csv
+
+commit 74752a18674c390e739405bd1ccf58d9c61b5b8c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:28:34 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 17d0c5c3276cf0596e95eab30d0e444b6d44c813 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 18:23:33 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 1625cd1eb80263ed5422f038133df97b9fda0718 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:22:52 2025 -0400
+
+    Update books_zotero.csv
+
+commit f7a0390ed10fd3a5c7601973f42baef7e67cf22e [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:22:32 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 5ea69ba4431ad8f40d720d43dbce90d88de0f9ac [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 13:09:56 2025 -0400
+
+    Update _config.yml
+
+commit a96e13638b7f51b95dc6b7048642442c6d0ef9ee [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:58:02 2025 -0400
+
+    Update books_zotero.csv
+
+commit 4af5a8e92de03e953ffbc56851978ede87c3a16c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:57:29 2025 -0400
+
+    Update morel-generate.py
+
+commit 1cf98dfe3718e8c260bea34670c32d2c0dbb90d7 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:57 2025 -0400
+
+    Update books_zotero.csv
+
+commit 0ec09f255540bc8264c9e2bbbf50ae8bf0d30dce [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:42 2025 -0400
+
+    Update morel-generate.py
+
+commit 1d4f9b7146714989997d7ddcc92f5be8302e108d [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:22 2025 -0400
+
+    Update morel-generate.py
+
+commit c9cb525005f59f416cc7ca7c973476291678a851 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 16:42:07 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 1b2e2f02d9f4e6b75959c3e235758756105e3088 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:41:31 2025 -0400
+
+    Update site-description.md
+
+commit 10622e4612152e4d784b6c064e732bcd2d0a9a5c [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 16:38:43 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 288142233eae0bed242a153f13e74361f5641d81 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:38:02 2025 -0400
+
+    Update site-description.md
+
+commit dc715f0f8d4395855a2957b2df00df041ea3b975 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:36:39 2025 -0400
+
+    Update about-build.yml
+
+commit b9d038d880020ddfddc193481188dc0ea37630a1 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:47:29 2025 -0400
+
+    Update _config.yml
+
+commit 7be614ab87b5dceeb10af5a7ae2ae939d1826d0f [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:38:28 2025 -0400
+
+    Trigger
+
+commit b52edc98e7ee164aab76afdd623680f6c0f2f095 [source: dariah_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Oct 14 22:37:03 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 93f10cbbf8b03613d6b84382a81b6d2c83652dc4 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:36:25 2025 -0400
+
+    Update books_zotero.csv
+
+commit a7828f8b10a4ee8da2f1cf2949a4ff9c0682d387 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:36:07 2025 -0400
+
+    Update zotero-generator.yml
+
+commit cd79fad9855e25f3490dd27b6fb01abf89920bd6 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:28:05 2025 -0400
+
+    Update books_zotero.csv
+
+commit ffd93b08cd5f7e6c405338465028fb37b84390d9 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:27:46 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 870937eb670379d3d217b14dcceb4830403c943f [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:25:23 2025 -0400
+
+    Update books_zotero.csv
+
+commit 2a6410df6f31af778ab26a3dd9cb4f1df22600c6 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:25:02 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 94c1423dda554eba91b6d5b167ab31e2b0683e52 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:05:40 2025 -0400
+
+    Update books_zotero.csv
+
+commit 23729bca23f136b173f762cfd865ff3b1eb70457 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:05:12 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 4a45b415e9d8a8d16366f4fd799cd6ef5043cdfc [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:50:33 2025 -0400
+
+    Update books_zotero.csv
+
+commit cf7f6a0c06beaf7d026b9abae9e976357337a904 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:50:02 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 08e96d7da9818fa1e82865e2c78480a8de245203 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:48:44 2025 -0400
+
+    Update morel-generate.py
+
+commit 30aae39ce166069db192be2783109f6c83d15893 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 15:04:18 2025 -0400
+
+    Update books_zotero.csv
+
+commit b12cb59aae70e939e10f5a801c95badda6388e3b [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 15:02:30 2025 -0400
+
+    Create zotero-generator.yml
+
+commit cb76844095e1faea6a2811cbc82c393ec41918a9 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:32:53 2025 -0400
+
+    Update site-description.md
+
+commit 3a41f6706bcda38970bfa2f5a781fdb8b2846983 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:31:38 2025 -0400
+
+    Create about-build.yml
+
+commit 2f134ec2107ef712cf87e60eab3b28bd1b0abfb3 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:25:50 2025 -0400
+
+    Update _config.yml
+
+commit 207c9cf1a10aa45044f6c572747d0a5631f198cc [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:24:20 2025 -0400
+
+    Update _config.yml
+
+commit 77ba1b84bdc52898ba421c7b79445f06a56b8ee2 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:21:08 2025 -0400
+
+    Rename test-build.yml to config-build.yml
+
+commit b4d363ffbeb8cf090ff1206e07e68b8549c158de [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:20:47 2025 -0400
+
+    Update test-build.yml
+
+commit 4097cd6c4494cf5ca66c53088a0bf00e6ec8e65c [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:12:54 2025 -0400
+
+    Update _config.yml
+
+commit d8c6f72c8e714c96ac5b9d05da812534a21ad754 [source: dariah_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:08:15 2025 -0400
+
+    Update test-build.yml
+
+commit 06a766004dd7411ea2de92335d0fe14907f8ffa7 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:45:04 2025 -0400
+
+    Update books_zotero.csv
+
+commit 3b8b49ab7c5d5b248bcb66ba5386d3fd4c3acc6e [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:41:20 2025 -0400
+
+    Update books_zotero.csv
+
+commit b3e9c8c59ab0dd02fe65685af5023b7b1cb7c782 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:37:57 2025 -0400
+
+    Update test-build.yml
+
+commit fa094c51cf9ff0d086259ca23ce02572cd4e0846 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Oct 13 19:58:40 2025 -0400
+
+    Update README.md
+
+commit 53bcf79ebad97917cc7edfae8c14b3ad577ecea1 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Sat Oct 11 13:40:38 2025 -0400
+
+    Update README.md
+
+commit 8d4c0a0f8e0df64888192a879cac8ae12529cb65 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:29:08 2025 -0400
+
+    fix all links in landing page
+
+commit da9ff23752c9483de31152eb1315704665a30226 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:26:29 2025 -0400
+
+    fix authors
+
+commit 689a5a7bbc43653663fe8a04cd636f9047f46514 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:24:54 2025 -0400
+
+    authors link
+
+commit 2d5d3b1ff37ba5bf14e50bd17e1783f8c1ce24e2 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:18:41 2025 -0400
+
+    added content
+
+commit 01aae2ba6305e24ef3ecb6911793177a7c654302 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:07:31 2025 -0400
+
+    trigger
+
+commit 291e80aa20cffcfc15a22d5b0c6f4a2e6aa452dc [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Apr 16 15:54:04 2025 -0400
+
+    Update test-build.yml
+
+commit 50c015cbc07c98827ebe1c93123baf0c5321641e [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Apr 16 15:39:26 2025 -0400
+
+    Create test-build.yml
+
+commit 1bc848a3b5362331dcb1f55e5238c2e72bf17d64 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 15:13:19 2025 -0400
+
+    fix
+
+commit 128238780664185b84edbe1a7608bf9fcd421950 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 14:38:10 2025 -0400
+
+    trigger
+
+commit 7aa81a85f08f05a16996595e3f77bbbd88412d69 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 14:36:13 2025 -0400
+
+    trigger
+
+commit 13641680d6126349c5a3ba6ecc35a3289d7e1c0b [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Apr 11 13:46:22 2025 -0400
+
+    recovered logo and avatar
+
+commit e73e18c0e1188f7c0ab1dc28527903418472f9ca [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Apr 10 12:59:46 2025 -0400
+
+    add clenup step to instructions
+
+commit d52f7cc2a36879cea3ff7368439cd172d91b2f1b [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Apr 10 12:17:40 2025 -0400
+
+    tested selective cleanup
+
+commit 0dc14a212c9c1d301031dc784e990d114d6cd832 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:27:24 2025 -0400
+
+    one more detail
+
+commit 28bd0ad5c87992e2cfbbd2f501f66338f9f9bdc8 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:26:33 2025 -0400
+
+    missing commands and bad source in instructions
+
+commit 5ec7fb62e326063ec791861c0634feba250c5bb3 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:19:32 2025 -0400
+
+    missing command in instructions
+
+commit cb6bcbca503f2280155eed337ba3e5589be71703 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:45:41 2025 -0400
+
+    restored the tema files
+
+commit 44058f0c98a46570f58d626045d514814c3ed1db [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:42:52 2025 -0400
+
+    added the tema files to the cleanup scr
+
+commit 38ff09527897da6a8fb379bb398343a66c797ff0 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:31:43 2025 -0400
+
+    add chriterias back and fix cleaning script
+
+commit 9ca4cea8008ee6eb816d242eaffe6a8b34041674 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:44:01 2025 -0400
+
+    local instructions updated
+
+commit 466f1c449d59e4944822f8ca390e94be9b9fb6b9 [source: dariah_history]
+Merge: 7ef294e 3c040dc
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:40:29 2025 -0400
+
+    Merge branch '1-finish-documentation'
+
+commit 3c040dc9f8880bcee807ffa099aea3bf906ecaae [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:36:16 2025 -0400
+
+    Finished instructions for local installation
+
+commit 7ef294e4e713eba54d1ba93daa4b0cdff13a9b6a [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:26:37 2025 -0400
+
+    updated gemfile
+
+commit 2313ca1fa0b50a2e30389f77d1cc8ee7b372c7a7 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 13:48:22 2025 -0400
+
+    Updating, unfinished draft
+
+commit a01ac06eb8e64eee88fd3d3a9617e879e388c675 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 12:23:36 2025 -0400
+
+    basic adjustments made
+
+commit 8fa91e9a6efe9efce33640a4bfe6a8b4c0da5e53 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 21:39:11 2025 -0400
+
+    content generator integrated into morel-theme-generator
+
+commit 9b323ccce79aba40c1a21a933a8ad0df095cb3a6 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 21:21:13 2025 -0400
+
+    tested morel-generate from main folder
+
+commit 5b915b516485befb7479206fa29ebfe2aed31193 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:35:12 2025 -0400
+
+    tested all scripts from main folder of the repo
+
+commit 291815cf38a5bf0b026b8bf65c0aabceef503afd [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:03:08 2025 -0400
+
+    deleted default content for test
+
+commit 5dc1dd066d8673e41566012d107e1557ffb0e7df [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:03:00 2025 -0400
+
+    deleted default content for test
+
+commit 5d940a094cf849537a7dcf3fdc0526b0e42f30ab [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Mar 21 18:29:09 2025 -0400
+
+    vopying environment and updating gitignore
+
+commit 2c83cd110e1150d8a50d9977872f829afd60b223 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Mar 17 09:06:35 2025 -0400
+
+    Updated readme.md
+
+commit 6176e07168c37bda8820d5387c7ffeeb96f23234 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Mar 16 17:08:56 2025 -0400
+
+    add sitemap.xml
+
+commit fa553f21b32148895d79b427134813ffd7d9d896 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jan 23 15:41:33 2025 -0500
+
+    add .gitattributes
+
+commit ab4eeda478dcf0cbd92d7e4acc2f8948ec9f08ac [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 30 16:53:09 2024 -0500
+
+    added missed downloads page and index layout to customize if needed
+
+commit c5847516aa774eb14e623b15b9f94a7d7ddca851 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Nov 10 14:01:15 2024 -0500
+
+    update of the readme
+
+commit eb37406a6bffa82908d012887918b45bb633fbd2 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 17:14:39 2024 -0500
+
+    see previous commit
+
+commit 0612a27b0180442a66049158a6030255d92cfe6e [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 17:13:19 2024 -0500
+
+    I added the base-path to the local site, but keeping an option to running it as root. However, this won't work for the search function, thus I will narrow it to one single option, which is to run it with the base-path
+
+commit 8da45defad43a4269366a0e00055b1000d040ab0 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 16:18:49 2024 -0500
+
+    added the subfolder base-path to test changes as if they were on production
+
+commit b10f5ef93300162e98ce990d847dc5c5aaf2823e [source: dariah_history]
+Merge: b3a8b26 13f5981
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 15:57:37 2024 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 13f5981e2823694bd15b9cfe6617720c6fea0a3b [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Fri Aug 16 18:45:08 2024 -0400
+
+    Update search.js
+    
+    trying '../' approach
+
+commit 165e46058494580f8642a799792f33669a364aa0 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:54:03 2024 -0400
+
+    Update _config.yml
+
+commit acedcdd38110282cf164798d1e970b5ce48207e0 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:53:22 2024 -0400
+
+    Update add.md
+    
+    changed link to jotform to dynamic reference to yml
+
+commit ec1234ad4df95436c2fdd96555fd614cec43d588 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:47:30 2024 -0400
+
+    Update search.js
+    
+    After herdcoding the no-results page, corrected the url to the English version
+
+commit b5902f59693935a37d3dad86bdd6393b4cbb5193 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:45:18 2024 -0400
+
+    Update search.js
+
+commit cc34436a4621e540dc6e2762152281be9e797b9d [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:40:48 2024 -0400
+
+    Update search.js
+    
+    Trying with an empty value after href
+
+commit 4056ac60f66a999983c740d0c243111b89c317b8 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:33:38 2024 -0400
+
+    Update search.js
+    
+    Applying a dynamic html for the no-results page.
+
+commit 8ee306f905b8446b03896de8970e0441de888fb0 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:26:41 2024 -0400
+
+    Update search.js
+    
+    Adding base path to no-result options too
+
+commit 1b2238a2947ace8350f72008772e6c2dc2155d50 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:15:47 2024 -0400
+
+    Update search.js
+    
+    Trying new solution for the search page
+
+commit d507e8a3223dc9cb6c29096addc6cefa62341505 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:03:28 2024 -0400
+
+    Update search.js
+
+commit 9485eaaa351dabd1cb7a52c5fb73e67a065f41fb [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:00:31 2024 -0400
+
+    Update search.js
+
+commit 3da1d1e6e0a9ddea835f841d4bce56f2f3296b9b [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 19:51:02 2024 -0400
+
+    Update search.js
+
+commit ff5095acb151abbd85ca4bbc34c59b9cafe2fc14 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 19:45:08 2024 -0400
+
+    Create search.js
+
+commit b3a8b26c3660772bbfb11be4fc20ea78531b0cc9 [source: dariah_history]
+Merge: 79d5de5 bfa51db
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:48:51 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit bfa51db9ed9d662369598ae245c894982c9f7e1f [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:46:41 2024 -0400
+
+    Update search.html
+
+commit fa9acb6a7daa1e947d6fc48349da1380baae7010 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:44:03 2024 -0400
+
+    Update search.html
+
+commit 694becc9bd0ab7732fdee5c609a956e950d44073 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:38:09 2024 -0400
+
+    Update site-description.html
+
+commit d9520ad1c43f01fbdc88c6be9d204d807ab61ca8 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:35:40 2024 -0400
+
+    Update site-description.html
+
+commit 08cec0ad7d8041648ebe4f7a373ccc87c594e120 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:33:22 2024 -0400
+
+    Update site-description.html
+
+commit 79d5de52023e93b651b036e27526b6cee069c1b3 [source: dariah_history]
+Merge: c7a95a7 8690b2d
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:28:23 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 8690b2d1cb0251aa1903fc5e5e572ea0bbc5b689 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:19:01 2024 -0400
+
+    Update _config.yml
+
+commit 5c77b6c336e599172088bd0d48b0f5d2f6b63b3a [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:16:15 2024 -0400
+
+    Update _config.yml
+
+commit 48a8369b7202cbc71940ac7b9eff7ea8d9a98bc7 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:14:29 2024 -0400
+
+    Update _config.yml
+
+commit c7a95a7f5815b7171dd1436e5cc47bffdce6ea46 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:06:02 2024 -0400
+
+    prod environment
+
+commit fd3e854d316df76bee742db681d91dd77a4bfb95 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 19:56:08 2024 -0400
+
+    tested embeeded readme
+
+commit 723748894ca024266e1b435d16cab8a29ada9dcb [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 19:44:18 2024 -0400
+
+    added dynamically README.md to the about page
+
+commit 2532ade1e984372ce0fba3eefc451dc09ba7606c [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 17:19:35 2024 -0400
+
+    updated readme
+
+commit 90a409ba7c99a18ddb64e28f32340b59330ad405 [source: dariah_history]
+Merge: 547ffb8 1db0c60
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:25:09 2024 -0400
+
+    merging remote changes
+
+commit 547ffb82e45a5807113a7940dab99615cb6138f8 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:22:52 2024 -0400
+
+    setup prod
+
+commit 73a7db86e5f500a35f38438bf4760ddbde23ee4c [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:22:18 2024 -0400
+
+    updated config.yml, added folders, updated readme, added ruby scripts
+
+commit 1db0c6058e7f67c94c593443df34f495ef8f9036 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 19:04:18 2024 -0400
+
+    Update README.md
+
+commit ff84059ece6b0ac9a77933d162d04e625670cce5 [source: dariah_history]
+Merge: accc8d8 f07487c
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Tue May 7 14:40:12 2024 -0400
+
+    Merge pull request #5 from morelrep/1-finish-documentation
+    
+    1 finish documentation
+
+commit f07487c5507a12b2fb6b8d3b9a09b3f3b6ad6e0a [source: dariah_history]
+Merge: e3af916 accc8d8
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 14:33:14 2024 -0400
+
+    Merge branch 'main' into 1-finish-documentation
+
+commit accc8d87a6e1784976e2e2aebf387ab15009a61f [source: dariah_history]
+Merge: 7e0a318 cfb903d
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 7 13:09:00 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 7e0a318ed97d06c83ba9e8052a0c6f8f75b575a7 [source: dariah_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 7 13:06:28 2024 -0400
+
+    added 'tema' folder
+
+commit cfb903d3df2d7d6dc074aecbd89ef331be290b22 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 10:11:11 2024 -0400
+
+    Update README.md
+
+commit 462859f6690d6a69fe4e7dd287a379647fae7813 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Mar 13 10:40:12 2024 -0400
+
+    Update README.md
+
+commit 561d814097223199a0c8d19356874a8c548a2c9f [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Mar 13 10:31:31 2024 -0400
+
+    Update README.md
+
+commit d0467599ca2fc9665ff8f5c78b350f7c60efa0a2 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:51:03 2024 -0400
+
+    Update README.md
+
+commit de7e88e2a615b01a78b7ac1b24da4cd201607ae5 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:50:15 2024 -0400
+
+    Update README.md
+
+commit 3e255ca7a85cb80f9843ea83f471de2b1207200e [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:42:48 2024 -0400
+
+    Update README.md
+
+commit 9baad1e4792d186d73f8470909e64b3e81f6bf6c [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:42:27 2024 -0400
+
+    Update README.md
+
+commit fd8366e8517b31e871bf3c64843a4fc5b5fa8ae5 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:28:54 2024 -0400
+
+    Update README.md
+
+commit 416b08aa0eac0845ef3ca0dd0630000f8e5bfe8b [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:08:28 2024 -0400
+
+    Update README.md
+    
+    Add step to make site-description work dinamically
+
+commit 2819a40318bbb6e8412f83abb9510f23125900a5 [source: dariah_history]
+Merge: 5897e49 49d1a20
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:58:17 2024 -0400
+
+    Merge pull request #3 from morelrep/febr3s-patch-1
+    
+    Update README.md
+
+commit 49d1a20c0f2dc694efcdba640edc3dd3b7469e69 [source: dariah_history]
+Merge: 5d043d1 5897e49
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:58:07 2024 -0400
+
+    Merge branch 'main' into febr3s-patch-1
+
+commit 5897e49e397fe4d162e7df80f94a1e88ac66f197 [source: dariah_history]
+Merge: 3644cfc cede8fd
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:54:09 2024 -0400
+
+    Merge pull request #4 from morelrep/febr3s-patch-2-1
+    
+    Update README.md
+
+commit cede8fd7c9a509f23c26d8cc065354d9b57af443 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Mar 11 19:40:19 2024 -0400
+
+    Update README.md
+    
+    Some needed changes
+
+commit 5d043d1e56d2c5a1271addc41b6a3e900e36cdfa [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Mar 11 18:57:48 2024 -0400
+
+    Update README.md
+
+commit e3af916743a170248116b04efccd0703f8e39309 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 01:08:03 2023 -0500
+
+    switched to remote-theme
+
+commit 1559c454bb04bb8e9dcd45c6daa6a0ff235a7980 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 01:07:16 2023 -0500
+
+    added chriteras.csv to the _data folder. Apparently, it cannot load it from a remote theme, wehreas it can load it from the gem them
+
+commit 4f1d0b64660f0febd4bf65c9f14082f366fa1d28 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:52:21 2023 -0500
+
+    added test page
+
+commit 2a017f1bf1573c2b34c80019bb450aa8028119d3 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:47:28 2023 -0500
+
+    added test page
+
+commit a4316f08b0040632a8feb11698c6fc89715d31b8 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:28:29 2023 -0500
+
+    deleted duplicated page
+
+commit 444098ec2afa1ecfa06f19681b92508c7edd66b3 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:24:37 2023 -0500
+
+    one base_path was missing
+
+commit a84f5148848c52486961df8e7421e2a17af5a061 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:20:48 2023 -0500
+
+    trigger deploy
+
+commit 6b084f82fdc7ed0eeed6d5e36ae89b8abce160aa [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:19:40 2023 -0500
+
+    trigger deploy
+
+commit 24ffa16d7cd9314dc5dbdedfd6199f99e6d82828 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 22:42:26 2023 -0500
+
+    trigger deploy
+
+commit 12916fdb828ac9711404827eb39e10df802a9493 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 22:07:27 2023 -0500
+
+    trigger deploy
+
+commit e168b89aaeca62de11727d0e450d76f82fa3b3ba [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 20:23:11 2023 -0500
+
+    changed to main branch back to see if it works
+
+commit 6cf6df03b1320c62832fe59cd252dc4c288d62d6 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 20:17:14 2023 -0500
+
+    changed to 2-favicon branch to see if it works
+
+commit 84f8a943865ab3adce515daaeaab236e027e45bc [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 17:00:07 2023 -0500
+
+    fixed links on README.md  and linked to theme on main branch
+
+commit 697af9c20b37d88dcc85cc2ced8f3bdc538d30e1 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 16:50:50 2023 -0500
+
+    fixed links on README.md
+
+commit 609648e9f49057ad3a6453d17bd186ac18e4c832 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 18:08:12 2023 -0500
+
+    redirected remote theme to issue branch
+
+commit 8443ba262356e50ec78e50cffecb6c5e1263a264 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 18:07:00 2023 -0500
+
+    activated remote theme
+
+commit 4b202fe2d4175899d9867784d3f13502fbb16495 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 15:13:20 2023 -0500
+
+    fixed typo in README.md and added Hola World! post
+
+commit 5c697a485652abd12818c848d07fbe8420954335 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:32:27 2023 -0500
+
+    deleted env files
+
+commit 971a79970646f51e683d8db1fb3b22c32789d8eb [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:28:58 2023 -0500
+
+    switched to remote-theme
+
+commit 8adf7f456ecb7fa0114b5be77ee4fbddc8199362 [source: dariah_history]
+Merge: 108a904 1983131
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:26:25 2023 -0500
+
+    completing merge
+
+commit 108a90452f93e3d8a9f144eb60ea08713d51d8eb [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 11:30:41 2023 -0500
+
+    copied env to assets folder
+
+commit 19831315bbab601d79f5de8423014f166a7be411 [source: dariah_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Jul 24 11:02:56 2023 -0500
+
+    Update _config.yml
+    
+    Minor change to trigger deployment after transfering morel-theme to MOREL
+
+commit ba0d06c2200891dbe509555b2223a71dd508cb7c [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 10:47:50 2023 -0500
+
+    switched to remote-theme
+
+commit 976927f9f34631291242b05b039cda8b48e681d4 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 14:48:22 2023 -0500
+
+    updated theme and tested locally
+
+commit 9c1b6c5a79831a9353aedfe50cc5ab256a66825a [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 14:41:02 2023 -0500
+
+    updated about page
+
+commit 52986a44a3cf20423bd7291fa9d7af48640ad07a [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 05:35:36 2023 -0500
+
+    update readme and about page
+
+commit b34c3bebb132d6ebdd740c928a67c848b602a1ae [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:55:58 2023 -0500
+
+    finished first version of README, moved unused files
+
+commit 3e9cd20b00ae2f7b661a53add7ea29207f0bbeba [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:29:02 2023 -0500
+
+    added licence
+
+commit 42e50405ab69ec8e928682a67d8e58d98cb1a1ce [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:22:06 2023 -0500
+
+    copied instructions to site-description.md and updated them
+
+commit 3644cfccbe08911ca19c9d5e6257728602ec3dd7 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:17:07 2023 -0500
+
+    minor change to trigger deploy with updated morel-theme
+
+commit 237d0ce53f1385737ea01fdc2d02063e5b53e1d7 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:08:02 2023 -0500
+
+    referenced theme in main branch
+
+commit 69660cfe1928c03420140b825896f79a5675296e [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:03:26 2023 -0500
+
+    deleted _data.yml remaining from the tests with scripts
+
+commit 7d36d1212518508e5ee7eff2cc7790694080c08d [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:57:49 2023 -0500
+
+    update readme
+
+commit 300462bd168826dbd13590af6362ead96ea4e5ef [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:52:23 2023 -0500
+
+    update readme
+
+commit d6e27943440f569b546d7a2ed0c804c1ea3c1d4b [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:44:03 2023 -0500
+
+    added ruby scripts for workaround
+
+commit 7590aad6ae61b1a59e52deb9ff6ba4536e48c8da [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 22 19:29:04 2023 -0500
+
+    introducidas variaciones para correrlo en local
+
+commit 42b899491d1cc265ca63e21a04b7ac9e39805c97 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:56:05 2023 -0500
+
+    minor change to trigger deploy with updated morel-theme
+
+commit a263d8db3dbfb99e20971d9b488eeb7039b7c8bd [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:42:47 2023 -0500
+
+    worked locally with the --config flag
+
+commit 094bdc3119cac0c540f928ccc299e1091c11c70a [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:01:49 2023 -0500
+
+    dummy change to start deployment after pushing base-path branch from morel-theme
+
+commit 2f4e1bbd30ea486cee1c0a36f86bdb27ac31fbea [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:55:15 2023 -0500
+
+    pointed remote theme to specific branch
+
+commit ef90c87433715750b849f36632c41863b25e4b44 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:47:26 2023 -0500
+
+    updated theme
+
+commit d7961edd493dd4570fa4f1192c60a45e060f26df [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:38:04 2023 -0500
+
+    added base_path to config.yml
+
+commit 10fb5dec786a97431b0c73285fb04b584e081607 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:35:06 2023 -0500
+
+    switched to remote-theme
+
+commit ae307901e4124562b740aa6a0527fd3c7fdd9c7b [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:33:18 2023 -0500
+
+    updated theme and worked locally
+
+commit 65a952848224985aa9c378b5280b4b9942ae7240 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:14:38 2023 -0500
+
+    changed base-path
+
+commit 4b7a759298f36359cf9a16c20ff7f74d82fa1f5e [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 20 02:40:28 2023 -0500
+
+    tweaking around to figure out the BASE_PATH rule. See log for findings. Should have used a different branch
+
+commit 8a4ed06a3b8f8c8965009e93e71ca0167f671537 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 22:20:29 2023 -0500
+
+    more modifications to readme and switch to remote
+
+commit 85adfe2cc4b911faba8b2932941d328f6eba9a25 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 18:40:44 2023 -0500
+
+    updated and translated readme
+
+commit a9359d0af49f6d7f5638ffc11b460f2798ff0741 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:59:04 2023 -0500
+
+    switched to remote-theme
+
+commit 4cf4716ca3a8aba9750fd85a5a041cd2515998e6 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:58:32 2023 -0500
+
+    ran bundle update and worked locally
+
+commit 02381d5938a609c1171d5c257143c71dd6f37f2a [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:45:51 2023 -0500
+
+    ran bundle install
+
+commit 87cf47b1d04d10a7ef9506eca2d544fc44cdaebf [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:42:49 2023 -0500
+
+    switched to remote-theme
+
+commit d318d87dbe77725df5df3c07f855367ad495c9fd [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:42:15 2023 -0500
+
+    specified versions in gemfile for everything except morel-theme
+
+commit fe0b0f26ec515830af5b7737687612b05ca7194a [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:35:13 2023 -0500
+
+    uncommented everything back and switched the theme line in configyml
+
+commit e8c7b3939559b547362a9f3c990055d83191c083 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:33:46 2023 -0500
+
+    commented bacj the parser line
+
+commit aa595aa3daa136df910b6e96efefbe8d8ce443f4 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:32:38 2023 -0500
+
+    commented back the performance booster line
+
+commit 1d0c7e03ea1769ebf8bf98ec7a1672e9681babb7 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:31:11 2023 -0500
+
+    commented back the zoneinfo gems
+
+commit 4b78fd105e7b3ad36377b88739d847228a9805e2 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:25:54 2023 -0500
+
+    uncommented some lines in gemfile to make it compatible with jruby and windows
+
+commit bf5e4e1d56691189e7a0f1ddbe4250363d21a5f4 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 17:11:39 2023 -0500
+
+    readme updated with switching themes for dev an prod
+
+commit b731eda80ecde841316020d63f3132b1d4eac2eb [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 17:00:18 2023 -0500
+
+    apparently solved
+
+commit b2d678e4eb021ecd861634cdc2948ea2bcdd5567 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 16:45:52 2023 -0500
+
+    bundled with jekyll gem, which was apparently the one that always worked anyway
+
+commit 5aaef8d9feafcf04163db510fd126994c422a43d [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 10:46:13 2023 -0500
+
+    Readme updated in Spanish
+
+commit 7101678361069a6d73ce0cd5446649670881cd0f [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:58:10 2023 -0500
+
+    fixed syntax on config file for remote theme
+
+commit 5e90c66e4e0afb94ce4f34d96d93227782c9ae50 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:48:39 2023 -0500
+
+    deleted env
+
+commit 4fb6bc640568c6e222e57c54117385cb6304916e [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:46:13 2023 -0500
+
+    commented out windows gems and parser gem
+
+commit 4989424ff2177f175141af8ee71a31e65ea41c9c [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:44:45 2023 -0500
+
+    ...and added github-pages
+
+commit 826e3b1e8b61fed295a1d9f77b02046727de8fa3 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:44:33 2023 -0500
+
+    ...and added github-pages
+
+commit 75367f963f82bd475387f129824003dd2a4dedaf [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:43:32 2023 -0500
+
+    commented out morel-theme
+
+commit 655e975e2e2da515eb0189c8e4106a20e363f13d [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:42:17 2023 -0500
+
+    switched to remote-theme
+
+commit 75c3b4c56b87d9532834709a3462c5c341a70ba4 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:41:47 2023 -0500
+
+    switched jekyll for github-pages on gemfile and worked locally
+
+commit 94d69c1184965520e66a68db671dff9f9321ede0 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:35:35 2023 -0500
+
+    deleted gemfile.lock and reinstalled all gems
+
+commit 8da9a805be8a55ba0b794913d702baa0c7760364 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:33:37 2023 -0500
+
+    modified config and gemfile to make remote-theme work
+
+commit cae5da5ea7df7b082023405211d659a9b15e5d92 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:30:39 2023 -0500
+
+    added remote theme plugin
+
+commit dc5cc5f1e4993ae838fed51cc4efb3087fad0299 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:24:54 2023 -0500
+
+    activated remote theme
+
+commit a1e481878543424f53bc3d7293edbf2d30c0fe12 [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:21:04 2023 -0500
+
+    readme added, theme updated, remote-theme option added on config
+
+commit 27218a3207c5273aeffaa9f32323486ade7760be [source: dariah_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 14 16:28:47 2023 -0500
+
+    before updating theme
+
+commit ec89524297e82166d476a915f589788079f56e30 [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 25 12:11:09 2025 -0500
+
+    csv files with descriptions added
+
+commit f425c4a5a67a78fb3d8c1944910151afbc5eeaf4 [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:54:59 2025 -0500
+
+    refined prompt implemented succesfuly on main.py
+
+commit 9a1d7dcdd454f696092b706c390e95977e1ac7d4 [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:32:45 2025 -0500
+
+    old test is new main
+
+commit b3bd2d9600bf96fd982c0edd6ff9792d4a860b6d [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:32:09 2025 -0500
+
+    improved prompting succesful in test.py
+
+commit 48361e524623d29f30ff2e1929825c457ce5ffb6 [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:29:52 2025 -0500
+
+    old test is new main
+
+commit 907c532dc212b191f23d7adbbdc63ca231a2bc91 [source: extractor_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 24 18:29:01 2025 -0500
+
+    description is succesfully being add on test.py
+
+commit 99ec06e2401d8191945e6f70fe1e41baa7f6a2c3 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Nov 9 14:34:35 2025 -0500
+
+    added a sample cover
+
+commit 9559819215b40749d1ace0d3d46202b2e8a76d7f [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Nov 7 05:29:23 2025 -0500
+
+    h2 size adjustment
+
+commit 7c1b1c28df8004545386e2a12e6add60538ce231 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Nov 7 05:22:45 2025 -0500
+
+    search function adjusted
+
+commit 3582dd6a72aa40a2a93c8432221ecf1eeb39ffaa [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 19:29:01 2025 -0500
+
+    trigger
+
+commit de1e9db536b5633966e5f10bebca7e48db9264df [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 19:21:48 2025 -0500
+
+    content [skip ci]
+
+commit d2ab530bc5db37023532bc5fde535f997dd5a67b [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 18:08:31 2025 -0500
+
+    README.md
+
+commit 3f4793a561ff75fb3144d9f6c58803542d67478a [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 18:00:36 2025 -0500
+
+    updated workflows
+
+commit afb9e1b2db882e01e5e7a00ac1a532e6da5cf1b0 [source: morel-no-code_history]
+Merge: 6ab1071 0aaf871
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:58:08 2025 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-no-code-generator
+
+commit 6ab107175bd43c43274421f61fafbaf45748280d [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:56:46 2025 -0500
+
+    updated readme
+
+commit 0aaf87194e11cbfcda3860f20c99359fcdcbe7c9 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Fri Oct 31 17:49:27 2025 -0500
+
+    Remove 'X' from UPDATE in _config.yml
+    
+    Removed the 'X' from the UPDATE line in the configuration.
+
+commit ade296e5a7e087b4eedb7bbc33b06093f4070185 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:47:40 2025 -0500
+
+    new content generation [skip ci]
+
+commit 521377ace869e499cf3a55cd6e855499ad323425 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 31 22:40:09 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit aa001ebcf8d067866db386a4c845f6d12fa51389 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:39:00 2025 -0500
+
+    _config.yml
+
+commit f256c2f8d800dfea654214d388ebc9f11922f6e0 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 17:37:53 2025 -0500
+
+    fixed workflow
+
+commit 3dc36b456ce1eb56f168a0baa60026abd6abe7e1 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 14:00:00 2025 -0500
+
+    generated content with images
+
+commit 4517db20b53f4305c8b035bff3e46896d353f8d3 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Oct 31 13:54:48 2025 -0500
+
+    update readme
+
+commit 07c7ec41213de6ec96d7b3d2183fcb308bcfd0ec [source: morel-no-code_history]
+Merge: 4ffe192 60e4fe5
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:31:28 2025 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-no-code-generator
+
+commit 4ffe192f70c9723c805e99f7a3c45009e6ba37e4 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:26:55 2025 -0500
+
+    layout
+
+commit 60e4fe552602654f2ffbc2499c5ccf92e98f9c4f [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Fri Oct 31 00:21:22 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 37393be8cd728552fa36cff116cfc237ec6d3a8b [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 30 19:20:43 2025 -0500
+
+    Update books_zotero.csv
+
+commit 22fc53ff3e084c67a60b23001a885f82a4ad81b0 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 30 19:10:45 2025 -0500
+
+    Remove 'X' from UPDATE field in _config.yml
+    
+    Removed the 'X' from the UPDATE field in the config.
+
+commit 55bcdaeb0a9e160a2d354f6788996816c9a97aa8 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 19:02:22 2025 -0500
+
+    updated content
+
+commit 1cc52018e683587cae0491c35e8bed314b9ddea5 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 18:42:46 2025 -0500
+
+    s
+
+commit 0b11d178b30ed766780c5a4b73fc22c44e353202 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Oct 30 18:42:34 2025 -0500
+
+    eliminated all scripts. First commit before trying image_generate.py
+
+commit 3c335c89e42d5e1a76810e0b70ef5213a9401fc9 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Oct 29 09:35:13 2025 -0500
+
+    blog and installation instructions styles
+
+commit df7a13d03ebe3c1e7dcc4727c22ad84027c509de [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Oct 26 20:45:49 2025 -0400
+
+    researched conditionals for displaying metadata on hover or not, and decided to display them all by default by the moment
+
+commit 6e0fe6df44cac9b968e3378fbe29cd737397f505 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Oct 25 22:01:25 2025 -0500
+
+    a
+
+commit 917d9aeb5f64932b00d38e350e53cc44cb9a79be [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Oct 25 21:35:18 2025 -0500
+
+    adding a presentation to the project
+
+commit e4504a097f2f8ab321d1a3dc6245d25503402253 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Thu Oct 23 22:15:06 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 3b3ea857a9d3212248de634b943779bcfac314ba [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 23 18:14:22 2025 -0400
+
+    Revise site description for MOREL project
+    
+    Updated the site description for clarity and conciseness.
+
+commit 1303a7fde93f55b58850b9faebe92eb8b10916c1 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Oct 23 18:04:06 2025 -0400
+
+    Update tagline in configuration file
+
+commit 0601abdb389b2795ad36c080fe79a366728ed2e3 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:29:13 2025 -0400
+
+    Mark site update as completed
+
+commit 60c75476ad1d3e1eb7c6b26fef2521d5c30e7e8f [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:28:45 2025 -0400
+
+    Update README.md
+
+commit 4de5cd008d55874bea474c1a770e9f5ed7290b3c [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 18:27:26 2025 -0400
+
+    Revise README for MOREL website setup instructions
+    
+    Updated README to provide clear instructions for building a MOREL website from a Zotero collection, including steps for customization and content generation.
+
+commit be76eee5012cffc41085f32f8656dc6a0a6e022e [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 17:30:09 2025 -0400
+
+    Update site title, tagline, and email address
+
+commit 73781653f29d5b05e7f22c74ba2553f6b37157c4 [source: morel-no-code_history]
+Merge: 06a7660 11ca7e4
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Oct 15 17:26:30 2025 -0400
+
+    Merge pull request #1 from saransuri/main
+    
+    Completing all steps to generate content without code
+
+commit 11ca7e444992cca30a3e0758d832ab9b6937c950 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 21:18:08 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 0370d9c5464b931a08ea50926e27f7b645d182cf [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 17:17:32 2025 -0400
+
+    Update books_zotero.csv
+
+commit b67e41c4ff58072e993901bdc3799a564d12dd8d [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 17:17:08 2025 -0400
+
+    Update cleanup_output.py
+
+commit f9c6d833c0a26d47e7c46465b71f849d3afa5b9c [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 20:59:18 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 55c253d987fc7e5b045245c4316ace7cf38e4660 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:58:40 2025 -0400
+
+    Update books_zotero.csv
+
+commit 0c86f3610bf6ec75e10482870bba749257b7ac19 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:56:43 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 359de620f506d4af4e6af721477fb38a8c1f0fbf [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:50:46 2025 -0400
+
+    Update config-build.yml
+
+commit b295c11bc135b86193ab33365c3206b1dc87ac0b [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:45:43 2025 -0400
+
+    Update _config.yml
+
+commit 22d4ca972944c0dabf7716116784fd810e4d41bd [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 20:44:49 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 8304e0ecd13e54a688e793459c8da668bc07a3c6 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:44:10 2025 -0400
+
+    Update books_zotero.csv
+
+commit 14833ebe6e05e84686ffd5832320838bb978a07c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 16:43:38 2025 -0400
+
+    Update copy_img.py
+
+commit 0501baae4e7889b5edad766f5178ec5d130bd3de [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:57:39 2025 -0400
+
+    Update _config.yml
+
+commit eeb2ab19484b8dc9dec0e6e77d1604d028a8cf58 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:35:35 2025 -0400
+
+    Update _config.yml
+
+commit c8c2e573b3c55dea91f31767c2d500bfc3b3e857 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:35:05 2025 -0400
+
+    Update config-build.yml
+
+commit e9c9af520a02a88b908589115c40f6da65276bb6 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:24:09 2025 -0400
+
+    Update _config.yml
+
+commit e5f0d474b91222819e2753cc50826efa00cfed03 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:20:25 2025 -0400
+
+    Update _config.yml
+
+commit a8858d6a697664cfa4ac31f098de3e31c9541e8f [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:20:15 2025 -0400
+
+    Update config-build.yml
+
+commit ed35becaddef49704978220a37f0d05211a15fd6 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:12:50 2025 -0400
+
+    Update _config.yml
+
+commit 3b3190ca5e7b9e320b61ab8e1aca1172c8a86d11 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 15:12:36 2025 -0400
+
+    Update config-build.yml
+
+commit 5697292b29e5af01586d38274191c0f58cc65d5c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:52:36 2025 -0400
+
+    Update _config.yml
+
+commit 3f740fa5a8a56dc8c0c12d90838a2e10a8315848 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:52:07 2025 -0400
+
+    Update config-build.yml
+
+commit 811699534f2a0449dd3485b70ef05043c7f1e39f [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:44:45 2025 -0400
+
+    Update _config.yml
+
+commit 5cbce0515c33834812c81605a647a17e2afeff92 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:35:36 2025 -0400
+
+    Update cleanup_output.py
+
+commit d9aeaf461a476eaecb68a8db1e615ac41ef893c2 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 18:31:34 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 4266607363611879b2dfa23750a94774eeeef45c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:30:55 2025 -0400
+
+    Update books_zotero.csv
+
+commit 9ac8f221b2b07cb702312d4d8c2adc5567251813 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:30:07 2025 -0400
+
+    Create books_zotero.csv
+
+commit 74752a18674c390e739405bd1ccf58d9c61b5b8c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:28:34 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 17d0c5c3276cf0596e95eab30d0e444b6d44c813 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 18:23:33 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 1625cd1eb80263ed5422f038133df97b9fda0718 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:22:52 2025 -0400
+
+    Update books_zotero.csv
+
+commit f7a0390ed10fd3a5c7601973f42baef7e67cf22e [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 14:22:32 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 5ea69ba4431ad8f40d720d43dbce90d88de0f9ac [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 13:09:56 2025 -0400
+
+    Update _config.yml
+
+commit a96e13638b7f51b95dc6b7048642442c6d0ef9ee [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:58:02 2025 -0400
+
+    Update books_zotero.csv
+
+commit 4af5a8e92de03e953ffbc56851978ede87c3a16c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:57:29 2025 -0400
+
+    Update morel-generate.py
+
+commit 1cf98dfe3718e8c260bea34670c32d2c0dbb90d7 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:57 2025 -0400
+
+    Update books_zotero.csv
+
+commit 0ec09f255540bc8264c9e2bbbf50ae8bf0d30dce [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:42 2025 -0400
+
+    Update morel-generate.py
+
+commit 1d4f9b7146714989997d7ddcc92f5be8302e108d [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:52:22 2025 -0400
+
+    Update morel-generate.py
+
+commit c9cb525005f59f416cc7ca7c973476291678a851 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 16:42:07 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 1b2e2f02d9f4e6b75959c3e235758756105e3088 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:41:31 2025 -0400
+
+    Update site-description.md
+
+commit 10622e4612152e4d784b6c064e732bcd2d0a9a5c [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Wed Oct 15 16:38:43 2025 +0000
+
+    chore: import rendered site-description [skip ci]
+
+commit 288142233eae0bed242a153f13e74361f5641d81 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:38:02 2025 -0400
+
+    Update site-description.md
+
+commit dc715f0f8d4395855a2957b2df00df041ea3b975 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Wed Oct 15 12:36:39 2025 -0400
+
+    Update about-build.yml
+
+commit b9d038d880020ddfddc193481188dc0ea37630a1 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:47:29 2025 -0400
+
+    Update _config.yml
+
+commit 7be614ab87b5dceeb10af5a7ae2ae939d1826d0f [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:38:28 2025 -0400
+
+    Trigger
+
+commit b52edc98e7ee164aab76afdd623680f6c0f2f095 [source: morel-no-code_history]
+Author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
+Date:   Tue Oct 14 22:37:03 2025 +0000
+
+    Auto-generate content from updated CSV
+
+commit 93f10cbbf8b03613d6b84382a81b6d2c83652dc4 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:36:25 2025 -0400
+
+    Update books_zotero.csv
+
+commit a7828f8b10a4ee8da2f1cf2949a4ff9c0682d387 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:36:07 2025 -0400
+
+    Update zotero-generator.yml
+
+commit cd79fad9855e25f3490dd27b6fb01abf89920bd6 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:28:05 2025 -0400
+
+    Update books_zotero.csv
+
+commit ffd93b08cd5f7e6c405338465028fb37b84390d9 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:27:46 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 870937eb670379d3d217b14dcceb4830403c943f [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:25:23 2025 -0400
+
+    Update books_zotero.csv
+
+commit 2a6410df6f31af778ab26a3dd9cb4f1df22600c6 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:25:02 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 94c1423dda554eba91b6d5b167ab31e2b0683e52 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:05:40 2025 -0400
+
+    Update books_zotero.csv
+
+commit 23729bca23f136b173f762cfd865ff3b1eb70457 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 18:05:12 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 4a45b415e9d8a8d16366f4fd799cd6ef5043cdfc [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:50:33 2025 -0400
+
+    Update books_zotero.csv
+
+commit cf7f6a0c06beaf7d026b9abae9e976357337a904 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:50:02 2025 -0400
+
+    Update zotero-generator.yml
+
+commit 08e96d7da9818fa1e82865e2c78480a8de245203 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 17:48:44 2025 -0400
+
+    Update morel-generate.py
+
+commit 30aae39ce166069db192be2783109f6c83d15893 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 15:04:18 2025 -0400
+
+    Update books_zotero.csv
+
+commit b12cb59aae70e939e10f5a801c95badda6388e3b [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 15:02:30 2025 -0400
+
+    Create zotero-generator.yml
+
+commit cb76844095e1faea6a2811cbc82c393ec41918a9 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:32:53 2025 -0400
+
+    Update site-description.md
+
+commit 3a41f6706bcda38970bfa2f5a781fdb8b2846983 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:31:38 2025 -0400
+
+    Create about-build.yml
+
+commit 2f134ec2107ef712cf87e60eab3b28bd1b0abfb3 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:25:50 2025 -0400
+
+    Update _config.yml
+
+commit 207c9cf1a10aa45044f6c572747d0a5631f198cc [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:24:20 2025 -0400
+
+    Update _config.yml
+
+commit 77ba1b84bdc52898ba421c7b79445f06a56b8ee2 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:21:08 2025 -0400
+
+    Rename test-build.yml to config-build.yml
+
+commit b4d363ffbeb8cf090ff1206e07e68b8549c158de [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:20:47 2025 -0400
+
+    Update test-build.yml
+
+commit 4097cd6c4494cf5ca66c53088a0bf00e6ec8e65c [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:12:54 2025 -0400
+
+    Update _config.yml
+
+commit d8c6f72c8e714c96ac5b9d05da812534a21ad754 [source: morel-no-code_history]
+Author: saransuri <sancheztorrealbacarlos@gmail.com>
+Date:   Tue Oct 14 14:08:15 2025 -0400
+
+    Update test-build.yml
+
+commit 06a766004dd7411ea2de92335d0fe14907f8ffa7 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:45:04 2025 -0400
+
+    Update books_zotero.csv
+
+commit 3b8b49ab7c5d5b248bcb66ba5386d3fd4c3acc6e [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:41:20 2025 -0400
+
+    Update books_zotero.csv
+
+commit b3e9c8c59ab0dd02fe65685af5023b7b1cb7c782 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Oct 14 13:37:57 2025 -0400
+
+    Update test-build.yml
+
+commit fa094c51cf9ff0d086259ca23ce02572cd4e0846 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Oct 13 19:58:40 2025 -0400
+
+    Update README.md
+
+commit 53bcf79ebad97917cc7edfae8c14b3ad577ecea1 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Sat Oct 11 13:40:38 2025 -0400
+
+    Update README.md
+
+commit 8d4c0a0f8e0df64888192a879cac8ae12529cb65 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:29:08 2025 -0400
+
+    fix all links in landing page
+
+commit da9ff23752c9483de31152eb1315704665a30226 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:26:29 2025 -0400
+
+    fix authors
+
+commit 689a5a7bbc43653663fe8a04cd636f9047f46514 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:24:54 2025 -0400
+
+    authors link
+
+commit 2d5d3b1ff37ba5bf14e50bd17e1783f8c1ce24e2 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:18:41 2025 -0400
+
+    added content
+
+commit 01aae2ba6305e24ef3ecb6911793177a7c654302 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 16:07:31 2025 -0400
+
+    trigger
+
+commit 291e80aa20cffcfc15a22d5b0c6f4a2e6aa452dc [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Apr 16 15:54:04 2025 -0400
+
+    Update test-build.yml
+
+commit 50c015cbc07c98827ebe1c93123baf0c5321641e [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Apr 16 15:39:26 2025 -0400
+
+    Create test-build.yml
+
+commit 1bc848a3b5362331dcb1f55e5238c2e72bf17d64 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 15:13:19 2025 -0400
+
+    fix
+
+commit 128238780664185b84edbe1a7608bf9fcd421950 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 14:38:10 2025 -0400
+
+    trigger
+
+commit 7aa81a85f08f05a16996595e3f77bbbd88412d69 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 16 14:36:13 2025 -0400
+
+    trigger
+
+commit 13641680d6126349c5a3ba6ecc35a3289d7e1c0b [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Fri Apr 11 13:46:22 2025 -0400
+
+    recovered logo and avatar
+
+commit e73e18c0e1188f7c0ab1dc28527903418472f9ca [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Apr 10 12:59:46 2025 -0400
+
+    add clenup step to instructions
+
+commit d52f7cc2a36879cea3ff7368439cd172d91b2f1b [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Apr 10 12:17:40 2025 -0400
+
+    tested selective cleanup
+
+commit 0dc14a212c9c1d301031dc784e990d114d6cd832 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:27:24 2025 -0400
+
+    one more detail
+
+commit 28bd0ad5c87992e2cfbbd2f501f66338f9f9bdc8 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:26:33 2025 -0400
+
+    missing commands and bad source in instructions
+
+commit 5ec7fb62e326063ec791861c0634feba250c5bb3 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 18:19:32 2025 -0400
+
+    missing command in instructions
+
+commit cb6bcbca503f2280155eed337ba3e5589be71703 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:45:41 2025 -0400
+
+    restored the tema files
+
+commit 44058f0c98a46570f58d626045d514814c3ed1db [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:42:52 2025 -0400
+
+    added the tema files to the cleanup scr
+
+commit 38ff09527897da6a8fb379bb398343a66c797ff0 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Apr 9 17:31:43 2025 -0400
+
+    add chriterias back and fix cleaning script
+
+commit 9ca4cea8008ee6eb816d242eaffe6a8b34041674 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:44:01 2025 -0400
+
+    local instructions updated
+
+commit 466f1c449d59e4944822f8ca390e94be9b9fb6b9 [source: morel-no-code_history]
+Merge: 7ef294e 3c040dc
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:40:29 2025 -0400
+
+    Merge branch '1-finish-documentation'
+
+commit 3c040dc9f8880bcee807ffa099aea3bf906ecaae [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:36:16 2025 -0400
+
+    Finished instructions for local installation
+
+commit 7ef294e4e713eba54d1ba93daa4b0cdff13a9b6a [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 16:26:37 2025 -0400
+
+    updated gemfile
+
+commit 2313ca1fa0b50a2e30389f77d1cc8ee7b372c7a7 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 13:48:22 2025 -0400
+
+    Updating, unfinished draft
+
+commit a01ac06eb8e64eee88fd3d3a9617e879e388c675 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Apr 6 12:23:36 2025 -0400
+
+    basic adjustments made
+
+commit 8fa91e9a6efe9efce33640a4bfe6a8b4c0da5e53 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 21:39:11 2025 -0400
+
+    content generator integrated into morel-theme-generator
+
+commit 9b323ccce79aba40c1a21a933a8ad0df095cb3a6 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 21:21:13 2025 -0400
+
+    tested morel-generate from main folder
+
+commit 5b915b516485befb7479206fa29ebfe2aed31193 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:35:12 2025 -0400
+
+    tested all scripts from main folder of the repo
+
+commit 291815cf38a5bf0b026b8bf65c0aabceef503afd [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:03:08 2025 -0400
+
+    deleted default content for test
+
+commit 5dc1dd066d8673e41566012d107e1557ffb0e7df [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Mar 22 20:03:00 2025 -0400
+
+    deleted default content for test
+
+commit 5d940a094cf849537a7dcf3fdc0526b0e42f30ab [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Mar 21 18:29:09 2025 -0400
+
+    vopying environment and updating gitignore
+
+commit 2c83cd110e1150d8a50d9977872f829afd60b223 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Mar 17 09:06:35 2025 -0400
+
+    Updated readme.md
+
+commit 6176e07168c37bda8820d5387c7ffeeb96f23234 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Mar 16 17:08:56 2025 -0400
+
+    add sitemap.xml
+
+commit fa553f21b32148895d79b427134813ffd7d9d896 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jan 23 15:41:33 2025 -0500
+
+    add .gitattributes
+
+commit ab4eeda478dcf0cbd92d7e4acc2f8948ec9f08ac [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 30 16:53:09 2024 -0500
+
+    added missed downloads page and index layout to customize if needed
+
+commit c5847516aa774eb14e623b15b9f94a7d7ddca851 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sun Nov 10 14:01:15 2024 -0500
+
+    update of the readme
+
+commit eb37406a6bffa82908d012887918b45bb633fbd2 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 17:14:39 2024 -0500
+
+    see previous commit
+
+commit 0612a27b0180442a66049158a6030255d92cfe6e [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 17:13:19 2024 -0500
+
+    I added the base-path to the local site, but keeping an option to running it as root. However, this won't work for the search function, thus I will narrow it to one single option, which is to run it with the base-path
+
+commit 8da45defad43a4269366a0e00055b1000d040ab0 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 16:18:49 2024 -0500
+
+    added the subfolder base-path to test changes as if they were on production
+
+commit b10f5ef93300162e98ce990d847dc5c5aaf2823e [source: morel-no-code_history]
+Merge: b3a8b26 13f5981
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Sat Nov 9 15:57:37 2024 -0500
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 13f5981e2823694bd15b9cfe6617720c6fea0a3b [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Fri Aug 16 18:45:08 2024 -0400
+
+    Update search.js
+    
+    trying '../' approach
+
+commit 165e46058494580f8642a799792f33669a364aa0 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:54:03 2024 -0400
+
+    Update _config.yml
+
+commit acedcdd38110282cf164798d1e970b5ce48207e0 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:53:22 2024 -0400
+
+    Update add.md
+    
+    changed link to jotform to dynamic reference to yml
+
+commit ec1234ad4df95436c2fdd96555fd614cec43d588 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:47:30 2024 -0400
+
+    Update search.js
+    
+    After herdcoding the no-results page, corrected the url to the English version
+
+commit b5902f59693935a37d3dad86bdd6393b4cbb5193 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:45:18 2024 -0400
+
+    Update search.js
+
+commit cc34436a4621e540dc6e2762152281be9e797b9d [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:40:48 2024 -0400
+
+    Update search.js
+    
+    Trying with an empty value after href
+
+commit 4056ac60f66a999983c740d0c243111b89c317b8 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:33:38 2024 -0400
+
+    Update search.js
+    
+    Applying a dynamic html for the no-results page.
+
+commit 8ee306f905b8446b03896de8970e0441de888fb0 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:26:41 2024 -0400
+
+    Update search.js
+    
+    Adding base path to no-result options too
+
+commit 1b2238a2947ace8350f72008772e6c2dc2155d50 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:15:47 2024 -0400
+
+    Update search.js
+    
+    Trying new solution for the search page
+
+commit d507e8a3223dc9cb6c29096addc6cefa62341505 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:03:28 2024 -0400
+
+    Update search.js
+
+commit 9485eaaa351dabd1cb7a52c5fb73e67a065f41fb [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 20:00:31 2024 -0400
+
+    Update search.js
+
+commit 3da1d1e6e0a9ddea835f841d4bce56f2f3296b9b [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 19:51:02 2024 -0400
+
+    Update search.js
+
+commit ff5095acb151abbd85ca4bbc34c59b9cafe2fc14 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 19:45:08 2024 -0400
+
+    Create search.js
+
+commit b3a8b26c3660772bbfb11be4fc20ea78531b0cc9 [source: morel-no-code_history]
+Merge: 79d5de5 bfa51db
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:48:51 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit bfa51db9ed9d662369598ae245c894982c9f7e1f [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:46:41 2024 -0400
+
+    Update search.html
+
+commit fa9acb6a7daa1e947d6fc48349da1380baae7010 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:44:03 2024 -0400
+
+    Update search.html
+
+commit 694becc9bd0ab7732fdee5c609a956e950d44073 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:38:09 2024 -0400
+
+    Update site-description.html
+
+commit d9520ad1c43f01fbdc88c6be9d204d807ab61ca8 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:35:40 2024 -0400
+
+    Update site-description.html
+
+commit 08cec0ad7d8041648ebe4f7a373ccc87c594e120 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:33:22 2024 -0400
+
+    Update site-description.html
+
+commit 79d5de52023e93b651b036e27526b6cee069c1b3 [source: morel-no-code_history]
+Merge: c7a95a7 8690b2d
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:28:23 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 8690b2d1cb0251aa1903fc5e5e572ea0bbc5b689 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:19:01 2024 -0400
+
+    Update _config.yml
+
+commit 5c77b6c336e599172088bd0d48b0f5d2f6b63b3a [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:16:15 2024 -0400
+
+    Update _config.yml
+
+commit 48a8369b7202cbc71940ac7b9eff7ea8d9a98bc7 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Thu Jul 11 18:14:29 2024 -0400
+
+    Update _config.yml
+
+commit c7a95a7f5815b7171dd1436e5cc47bffdce6ea46 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Thu Jul 11 18:06:02 2024 -0400
+
+    prod environment
+
+commit fd3e854d316df76bee742db681d91dd77a4bfb95 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 19:56:08 2024 -0400
+
+    tested embeeded readme
+
+commit 723748894ca024266e1b435d16cab8a29ada9dcb [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 19:44:18 2024 -0400
+
+    added dynamically README.md to the about page
+
+commit 2532ade1e984372ce0fba3eefc451dc09ba7606c [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 21 17:19:35 2024 -0400
+
+    updated readme
+
+commit 90a409ba7c99a18ddb64e28f32340b59330ad405 [source: morel-no-code_history]
+Merge: 547ffb8 1db0c60
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:25:09 2024 -0400
+
+    merging remote changes
+
+commit 547ffb82e45a5807113a7940dab99615cb6138f8 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:22:52 2024 -0400
+
+    setup prod
+
+commit 73a7db86e5f500a35f38438bf4760ddbde23ee4c [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Mon May 20 18:22:18 2024 -0400
+
+    updated config.yml, added folders, updated readme, added ruby scripts
+
+commit 1db0c6058e7f67c94c593443df34f495ef8f9036 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 19:04:18 2024 -0400
+
+    Update README.md
+
+commit ff84059ece6b0ac9a77933d162d04e625670cce5 [source: morel-no-code_history]
+Merge: accc8d8 f07487c
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Tue May 7 14:40:12 2024 -0400
+
+    Merge pull request #5 from morelrep/1-finish-documentation
+    
+    1 finish documentation
+
+commit f07487c5507a12b2fb6b8d3b9a09b3f3b6ad6e0a [source: morel-no-code_history]
+Merge: e3af916 accc8d8
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 14:33:14 2024 -0400
+
+    Merge branch 'main' into 1-finish-documentation
+
+commit accc8d87a6e1784976e2e2aebf387ab15009a61f [source: morel-no-code_history]
+Merge: 7e0a318 cfb903d
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 7 13:09:00 2024 -0400
+
+    Merge branch 'main' of https://github.com/morelrep/morel-theme-generator
+
+commit 7e0a318ed97d06c83ba9e8052a0c6f8f75b575a7 [source: morel-no-code_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue May 7 13:06:28 2024 -0400
+
+    added 'tema' folder
+
+commit cfb903d3df2d7d6dc074aecbd89ef331be290b22 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue May 7 10:11:11 2024 -0400
+
+    Update README.md
+
+commit 462859f6690d6a69fe4e7dd287a379647fae7813 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Mar 13 10:40:12 2024 -0400
+
+    Update README.md
+
+commit 561d814097223199a0c8d19356874a8c548a2c9f [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Wed Mar 13 10:31:31 2024 -0400
+
+    Update README.md
+
+commit d0467599ca2fc9665ff8f5c78b350f7c60efa0a2 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:51:03 2024 -0400
+
+    Update README.md
+
+commit de7e88e2a615b01a78b7ac1b24da4cd201607ae5 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:50:15 2024 -0400
+
+    Update README.md
+
+commit 3e255ca7a85cb80f9843ea83f471de2b1207200e [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:42:48 2024 -0400
+
+    Update README.md
+
+commit 9baad1e4792d186d73f8470909e64b3e81f6bf6c [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:42:27 2024 -0400
+
+    Update README.md
+
+commit fd8366e8517b31e871bf3c64843a4fc5b5fa8ae5 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:28:54 2024 -0400
+
+    Update README.md
+
+commit 416b08aa0eac0845ef3ca0dd0630000f8e5bfe8b [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Tue Mar 12 10:08:28 2024 -0400
+
+    Update README.md
+    
+    Add step to make site-description work dinamically
+
+commit 2819a40318bbb6e8412f83abb9510f23125900a5 [source: morel-no-code_history]
+Merge: 5897e49 49d1a20
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:58:17 2024 -0400
+
+    Merge pull request #3 from morelrep/febr3s-patch-1
+    
+    Update README.md
+
+commit 49d1a20c0f2dc694efcdba640edc3dd3b7469e69 [source: morel-no-code_history]
+Merge: 5d043d1 5897e49
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:58:07 2024 -0400
+
+    Merge branch 'main' into febr3s-patch-1
+
+commit 5897e49e397fe4d162e7df80f94a1e88ac66f197 [source: morel-no-code_history]
+Merge: 3644cfc cede8fd
+Author: Morel User <41707679+conpulsi0n@users.noreply.github.com>
+Date:   Mon Mar 11 19:54:09 2024 -0400
+
+    Merge pull request #4 from morelrep/febr3s-patch-2-1
+    
+    Update README.md
+
+commit cede8fd7c9a509f23c26d8cc065354d9b57af443 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Mar 11 19:40:19 2024 -0400
+
+    Update README.md
+    
+    Some needed changes
+
+commit 5d043d1e56d2c5a1271addc41b6a3e900e36cdfa [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Mar 11 18:57:48 2024 -0400
+
+    Update README.md
+
+commit e3af916743a170248116b04efccd0703f8e39309 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 01:08:03 2023 -0500
+
+    switched to remote-theme
+
+commit 1559c454bb04bb8e9dcd45c6daa6a0ff235a7980 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 01:07:16 2023 -0500
+
+    added chriteras.csv to the _data folder. Apparently, it cannot load it from a remote theme, wehreas it can load it from the gem them
+
+commit 4f1d0b64660f0febd4bf65c9f14082f366fa1d28 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:52:21 2023 -0500
+
+    added test page
+
+commit 2a017f1bf1573c2b34c80019bb450aa8028119d3 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:47:28 2023 -0500
+
+    added test page
+
+commit a4316f08b0040632a8feb11698c6fc89715d31b8 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:28:29 2023 -0500
+
+    deleted duplicated page
+
+commit 444098ec2afa1ecfa06f19681b92508c7edd66b3 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:24:37 2023 -0500
+
+    one base_path was missing
+
+commit a84f5148848c52486961df8e7421e2a17af5a061 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:20:48 2023 -0500
+
+    trigger deploy
+
+commit 6b084f82fdc7ed0eeed6d5e36ae89b8abce160aa [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 27 00:19:40 2023 -0500
+
+    trigger deploy
+
+commit 24ffa16d7cd9314dc5dbdedfd6199f99e6d82828 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 22:42:26 2023 -0500
+
+    trigger deploy
+
+commit 12916fdb828ac9711404827eb39e10df802a9493 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 22:07:27 2023 -0500
+
+    trigger deploy
+
+commit e168b89aaeca62de11727d0e450d76f82fa3b3ba [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 20:23:11 2023 -0500
+
+    changed to main branch back to see if it works
+
+commit 6cf6df03b1320c62832fe59cd252dc4c288d62d6 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 20:17:14 2023 -0500
+
+    changed to 2-favicon branch to see if it works
+
+commit 84f8a943865ab3adce515daaeaab236e027e45bc [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 17:00:07 2023 -0500
+
+    fixed links on README.md  and linked to theme on main branch
+
+commit 697af9c20b37d88dcc85cc2ced8f3bdc538d30e1 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 26 16:50:50 2023 -0500
+
+    fixed links on README.md
+
+commit 609648e9f49057ad3a6453d17bd186ac18e4c832 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 18:08:12 2023 -0500
+
+    redirected remote theme to issue branch
+
+commit 8443ba262356e50ec78e50cffecb6c5e1263a264 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 18:07:00 2023 -0500
+
+    activated remote theme
+
+commit 4b202fe2d4175899d9867784d3f13502fbb16495 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 15:13:20 2023 -0500
+
+    fixed typo in README.md and added Hola World! post
+
+commit 5c697a485652abd12818c848d07fbe8420954335 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:32:27 2023 -0500
+
+    deleted env files
+
+commit 971a79970646f51e683d8db1fb3b22c32789d8eb [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:28:58 2023 -0500
+
+    switched to remote-theme
+
+commit 8adf7f456ecb7fa0114b5be77ee4fbddc8199362 [source: morel-no-code_history]
+Merge: 108a904 1983131
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 13:26:25 2023 -0500
+
+    completing merge
+
+commit 108a90452f93e3d8a9f144eb60ea08713d51d8eb [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 11:30:41 2023 -0500
+
+    copied env to assets folder
+
+commit 19831315bbab601d79f5de8423014f166a7be411 [source: morel-no-code_history]
+Author: Eduardo Febres <33102833+febr3s@users.noreply.github.com>
+Date:   Mon Jul 24 11:02:56 2023 -0500
+
+    Update _config.yml
+    
+    Minor change to trigger deployment after transfering morel-theme to MOREL
+
+commit ba0d06c2200891dbe509555b2223a71dd508cb7c [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Jul 24 10:47:50 2023 -0500
+
+    switched to remote-theme
+
+commit 976927f9f34631291242b05b039cda8b48e681d4 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 14:48:22 2023 -0500
+
+    updated theme and tested locally
+
+commit 9c1b6c5a79831a9353aedfe50cc5ab256a66825a [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 14:41:02 2023 -0500
+
+    updated about page
+
+commit 52986a44a3cf20423bd7291fa9d7af48640ad07a [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 05:35:36 2023 -0500
+
+    update readme and about page
+
+commit b34c3bebb132d6ebdd740c928a67c848b602a1ae [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:55:58 2023 -0500
+
+    finished first version of README, moved unused files
+
+commit 3e9cd20b00ae2f7b661a53add7ea29207f0bbeba [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:29:02 2023 -0500
+
+    added licence
+
+commit 42e50405ab69ec8e928682a67d8e58d98cb1a1ce [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 04:22:06 2023 -0500
+
+    copied instructions to site-description.md and updated them
+
+commit 3644cfccbe08911ca19c9d5e6257728602ec3dd7 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:17:07 2023 -0500
+
+    minor change to trigger deploy with updated morel-theme
+
+commit 237d0ce53f1385737ea01fdc2d02063e5b53e1d7 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:08:02 2023 -0500
+
+    referenced theme in main branch
+
+commit 69660cfe1928c03420140b825896f79a5675296e [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 01:03:26 2023 -0500
+
+    deleted _data.yml remaining from the tests with scripts
+
+commit 7d36d1212518508e5ee7eff2cc7790694080c08d [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:57:49 2023 -0500
+
+    update readme
+
+commit 300462bd168826dbd13590af6362ead96ea4e5ef [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:52:23 2023 -0500
+
+    update readme
+
+commit d6e27943440f569b546d7a2ed0c804c1ea3c1d4b [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sun Jul 23 00:44:03 2023 -0500
+
+    added ruby scripts for workaround
+
+commit 7590aad6ae61b1a59e52deb9ff6ba4536e48c8da [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 22 19:29:04 2023 -0500
+
+    introducidas variaciones para correrlo en local
+
+commit 42b899491d1cc265ca63e21a04b7ac9e39805c97 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:56:05 2023 -0500
+
+    minor change to trigger deploy with updated morel-theme
+
+commit a263d8db3dbfb99e20971d9b488eeb7039b7c8bd [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:42:47 2023 -0500
+
+    worked locally with the --config flag
+
+commit 094bdc3119cac0c540f928ccc299e1091c11c70a [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 11:01:49 2023 -0500
+
+    dummy change to start deployment after pushing base-path branch from morel-theme
+
+commit 2f4e1bbd30ea486cee1c0a36f86bdb27ac31fbea [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:55:15 2023 -0500
+
+    pointed remote theme to specific branch
+
+commit ef90c87433715750b849f36632c41863b25e4b44 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:47:26 2023 -0500
+
+    updated theme
+
+commit d7961edd493dd4570fa4f1192c60a45e060f26df [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:38:04 2023 -0500
+
+    added base_path to config.yml
+
+commit 10fb5dec786a97431b0c73285fb04b584e081607 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:35:06 2023 -0500
+
+    switched to remote-theme
+
+commit ae307901e4124562b740aa6a0527fd3c7fdd9c7b [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:33:18 2023 -0500
+
+    updated theme and worked locally
+
+commit 65a952848224985aa9c378b5280b4b9942ae7240 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 21 10:14:38 2023 -0500
+
+    changed base-path
+
+commit 4b7a759298f36359cf9a16c20ff7f74d82fa1f5e [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Thu Jul 20 02:40:28 2023 -0500
+
+    tweaking around to figure out the BASE_PATH rule. See log for findings. Should have used a different branch
+
+commit 8a4ed06a3b8f8c8965009e93e71ca0167f671537 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 22:20:29 2023 -0500
+
+    more modifications to readme and switch to remote
+
+commit 85adfe2cc4b911faba8b2932941d328f6eba9a25 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 18:40:44 2023 -0500
+
+    updated and translated readme
+
+commit a9359d0af49f6d7f5638ffc11b460f2798ff0741 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:59:04 2023 -0500
+
+    switched to remote-theme
+
+commit 4cf4716ca3a8aba9750fd85a5a041cd2515998e6 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:58:32 2023 -0500
+
+    ran bundle update and worked locally
+
+commit 02381d5938a609c1171d5c257143c71dd6f37f2a [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:45:51 2023 -0500
+
+    ran bundle install
+
+commit 87cf47b1d04d10a7ef9506eca2d544fc44cdaebf [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:42:49 2023 -0500
+
+    switched to remote-theme
+
+commit d318d87dbe77725df5df3c07f855367ad495c9fd [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:42:15 2023 -0500
+
+    specified versions in gemfile for everything except morel-theme
+
+commit fe0b0f26ec515830af5b7737687612b05ca7194a [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:35:13 2023 -0500
+
+    uncommented everything back and switched the theme line in configyml
+
+commit e8c7b3939559b547362a9f3c990055d83191c083 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:33:46 2023 -0500
+
+    commented bacj the parser line
+
+commit aa595aa3daa136df910b6e96efefbe8d8ce443f4 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:32:38 2023 -0500
+
+    commented back the performance booster line
+
+commit 1d0c7e03ea1769ebf8bf98ec7a1672e9681babb7 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:31:11 2023 -0500
+
+    commented back the zoneinfo gems
+
+commit 4b78fd105e7b3ad36377b88739d847228a9805e2 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Jul 19 09:25:54 2023 -0500
+
+    uncommented some lines in gemfile to make it compatible with jruby and windows
+
+commit bf5e4e1d56691189e7a0f1ddbe4250363d21a5f4 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 17:11:39 2023 -0500
+
+    readme updated with switching themes for dev an prod
+
+commit b731eda80ecde841316020d63f3132b1d4eac2eb [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 17:00:18 2023 -0500
+
+    apparently solved
+
+commit b2d678e4eb021ecd861634cdc2948ea2bcdd5567 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 16:45:52 2023 -0500
+
+    bundled with jekyll gem, which was apparently the one that always worked anyway
+
+commit 5aaef8d9feafcf04163db510fd126994c422a43d [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Jul 18 10:46:13 2023 -0500
+
+    Readme updated in Spanish
+
+commit 7101678361069a6d73ce0cd5446649670881cd0f [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:58:10 2023 -0500
+
+    fixed syntax on config file for remote theme
+
+commit 5e90c66e4e0afb94ce4f34d96d93227782c9ae50 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:48:39 2023 -0500
+
+    deleted env
+
+commit 4fb6bc640568c6e222e57c54117385cb6304916e [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:46:13 2023 -0500
+
+    commented out windows gems and parser gem
+
+commit 4989424ff2177f175141af8ee71a31e65ea41c9c [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:44:45 2023 -0500
+
+    ...and added github-pages
+
+commit 826e3b1e8b61fed295a1d9f77b02046727de8fa3 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:44:33 2023 -0500
+
+    ...and added github-pages
+
+commit 75367f963f82bd475387f129824003dd2a4dedaf [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:43:32 2023 -0500
+
+    commented out morel-theme
+
+commit 655e975e2e2da515eb0189c8e4106a20e363f13d [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:42:17 2023 -0500
+
+    switched to remote-theme
+
+commit 75c3b4c56b87d9532834709a3462c5c341a70ba4 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:41:47 2023 -0500
+
+    switched jekyll for github-pages on gemfile and worked locally
+
+commit 94d69c1184965520e66a68db671dff9f9321ede0 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:35:35 2023 -0500
+
+    deleted gemfile.lock and reinstalled all gems
+
+commit 8da9a805be8a55ba0b794913d702baa0c7760364 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:33:37 2023 -0500
+
+    modified config and gemfile to make remote-theme work
+
+commit cae5da5ea7df7b082023405211d659a9b15e5d92 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:30:39 2023 -0500
+
+    added remote theme plugin
+
+commit dc5cc5f1e4993ae838fed51cc4efb3087fad0299 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:24:54 2023 -0500
+
+    activated remote theme
+
+commit a1e481878543424f53bc3d7293edbf2d30c0fe12 [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Jul 15 12:21:04 2023 -0500
+
+    readme added, theme updated, remote-theme option added on config
+
+commit 27218a3207c5273aeffaa9f32323486ade7760be [source: morel-no-code_history]
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Fri Jul 14 16:28:47 2023 -0500
+
+    before updating theme
+
+commit 6f564136baa1220a65cfffb72eb20a18bf52cd67 [source: primerosl_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 17:50:02 2025 -0500
+
+    added readme
+
+commit 2264eb1ca5e05e4a9675dae6210c84780888430c [source: primerosl_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 17:46:59 2025 -0500
+
+    scraper working
+
+commit 825c542454abaee883c394fae0fd2b0bbf833859 [source: primerosl_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 14:30:46 2025 -0500
+
+    deleted unused primeros_libros_folder
+
+commit e672c7c1231dbb263765c3f02a48bd2d69735a87 [source: primerosl_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 14:29:34 2025 -0500
+
+    tested mini scraper, created CSV with fields and equivalencies
+
+commit b988ab9d52ecacec986ef4a8aa1e412923565404 [source: viaf-reconciler_history]
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Oct 29 17:25:20 2025 -0500
+
+    initiated
+

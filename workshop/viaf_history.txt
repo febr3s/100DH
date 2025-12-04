@@ -1,0 +1,149 @@
+commit dcb51d164348f92d508845f508bf5eb923305e28
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Mon Nov 17 11:24:57 2025 -0500
+
+    update requirements.txt
+
+commit fc48bd2fa71094090af1377b226ef9938397eaf0
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 20:55:31 2025 -0500
+
+    old wikidata test is new wikidata
+
+commit d78c418582b7649e343ab95527ba500d907430cc
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 20:55:06 2025 -0500
+
+    wikidata script adding items
+
+commit af5ff8a426030d2bf5aefbaa8254f41f05d61261
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 19:36:48 2025 -0500
+
+    old viaftest is new viaf
+
+commit d75b1b618bb036872b812148ea1ef9d93719ca5d
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 19:36:16 2025 -0500
+
+    correctly skipping authors already listed for Wikidata
+
+commit 5f99e622992ca8c1e3dd8613e50af6079c6183f5
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 19:12:59 2025 -0500
+
+    old viaftest is new viaf
+
+commit f72d3eae6f0b1cf7f7c0d7b33e500ada1be631e0
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 19:11:24 2025 -0500
+
+    skipping prompt for stored candidates done
+
+commit a6ae1b3dd7663057ddb2287fa1744bbf16114a33
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 17:13:13 2025 -0500
+
+    old viaftest is new viaf
+
+commit 7df31e78c99a00e67f912b9f57b6113a8ca4f187
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 17:10:39 2025 -0500
+
+    wikidata candidates csv created successfully
+
+commit 231ceb597dd6fafede2fabdc44a4fd1e9c18c899
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 16:57:34 2025 -0500
+
+    script split in different files
+
+commit 740a5898761cfdd57f6449d437878af55bf22997
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Sat Nov 15 16:31:17 2025 -0500
+
+    test edit done
+
+commit 1cab12acacb917addc66f65bafd03cacdbb75047
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 18:29:01 2025 -0500
+
+    added README.md
+
+commit 0633cff17d70317099d5d15a8332e3e4745d3a5d
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 16:59:33 2025 -0500
+
+    previous test is new main
+
+commit 5bfc7eb94ce756ec5cce43a2ce98101ce05bd236
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 16:57:38 2025 -0500
+
+    test successfully skipping items that already have VIAF info
+
+commit 90e58250f307de7039e33827b5069dbe625c12f6
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 16:14:18 2025 -0500
+
+    previous test is new main
+
+commit cc227192256baf9d596e3e8946b9390f15e27949
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 16:13:11 2025 -0500
+
+    test script is already writing the VIAF to the Zotero record
+
+commit 1f5213b7bec53438f3d0ec735dcc046ea3a07324
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 11:40:28 2025 -0500
+
+    previous test is current main
+
+commit 8e56c7ae56d1ee4e224c22afccc6d6df052ff3f0
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 11:38:47 2025 -0500
+
+    test script writing Extra field and VIAF tag(s) to Zotero
+
+commit f7ea84118efdcc347e4e808aa8117f5a107decae
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 10:42:16 2025 -0500
+
+    test is now copied to main
+
+commit e16a4969c10cda173a3b2f328e505bfa44845d1e
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Nov 12 09:49:00 2025 -0500
+
+    test function completely working to find matches, close matches, and prompt the user to accept or reject close matches
+
+commit d91f640a3d539eb2e91e178592d58bc6419dc996
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 11 12:31:26 2025 -0500
+
+    old test.py is the new main.py
+
+commit 22ed4be0eb22c3a9c547323a50183a0d65be174f
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 11 12:23:51 2025 -0500
+
+    test script finding matches without the Google Books Link bug
+
+commit 2ade3d28738b20f6f02f180bd13d3dada34bc238
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Tue Nov 11 08:41:03 2025 -0500
+
+    main with simple match and test with aliases match working
+
+commit 1e972b1de6e7060a886f1c9610250146ef1012e0
+Author: febr3s <eduardofebresm@gmail.com>
+Date:   Wed Oct 29 20:16:57 2025 -0500
+
+    we have a working script
+
+commit b988ab9d52ecacec986ef4a8aa1e412923565404
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Wed Oct 29 17:25:20 2025 -0500
+
+    initiated
