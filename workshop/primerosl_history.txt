@@ -1,0 +1,23 @@
+commit 6f564136baa1220a65cfffb72eb20a18bf52cd67
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 17:50:02 2025 -0500
+
+    added readme
+
+commit 2264eb1ca5e05e4a9675dae6210c84780888430c
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 17:46:59 2025 -0500
+
+    scraper working
+
+commit 825c542454abaee883c394fae0fd2b0bbf833859
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 14:30:46 2025 -0500
+
+    deleted unused primeros_libros_folder
+
+commit e672c7c1231dbb263765c3f02a48bd2d69735a87
+Author: Eduardo Febres <eduardofebresm@gmail.com>
+Date:   Tue Oct 28 14:29:34 2025 -0500
+
+    tested mini scraper, created CSV with fields and equivalencies
