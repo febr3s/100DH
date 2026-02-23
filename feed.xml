@@ -1,4 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-04T16:35:16+00:00</updated><id>/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">Crónica de una etiqueta</title><link href="/2025/12/03/cronica-etiqueta.html" rel="alternate" type="text/html" title="Crónica de una etiqueta" /><published>2025-12-03T00:00:00+00:00</published><updated>2025-12-03T00:00:00+00:00</updated><id>/2025/12/03/cronica-etiqueta</id><content type="html" xml:base="/2025/12/03/cronica-etiqueta.html"><![CDATA[<p>Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-02-23T17:03:37+00:00</updated><id>/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">setting up SHH for github on ubuntu or WSL</title><link href="/2026/02/23/una-cosa-attachment-1.html" rel="alternate" type="text/html" title="setting up SHH for github on ubuntu or WSL" /><published>2026-02-23T00:00:00+00:00</published><updated>2026-02-23T00:00:00+00:00</updated><id>/2026/02/23/una-cosa-attachment-1</id><content type="html" xml:base="/2026/02/23/una-cosa-attachment-1.html"><![CDATA[<h1 id="guide">Guide</h1>
+
+<p>Here’s how to set up ubuntu or WSL to push to GitHub via SSH:</p>
+
+<p>Note:  if SHH is already set up in your current workstation jump to step 6</p>
+
+<ol>
+  <li><strong>Check Git identity</strong> (skip if already set):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name   <span class="c"># shows current name if set</span>
+git config <span class="nt">--global</span> user.email  <span class="c"># shows current email if set</span>
+</code></pre></div>    </div>
+
+    <p>Set them if needed:</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name <span class="s2">"Your Name"</span>
+git config <span class="nt">--global</span> user.email <span class="s2">"your_email@example.com"</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Generate SSH key</strong> (creates public/private key pair for GitHub auth):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen <span class="nt">-t</span> ed25519 <span class="nt">-C</span> <span class="s2">"your_email@example.com"</span>
+<span class="c"># Press Enter to accept default location, Enter again for no passphrase (optional)</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy public key</strong> (this goes on GitHub):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.ssh/id_ed25519.pub
+<span class="c"># Select and copy the entire output</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Add to GitHub</strong> (tell GitHub to trust your computer):
+    <ul>
+      <li>Go to <a href="https://github.com/settings/keys">github.com/settings/keys</a></li>
+      <li>“New SSH key”, paste, save</li>
+    </ul>
+  </li>
+  <li><strong>Test connection</strong> (verify everything works):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh <span class="nt">-T</span> git@github.com
+<span class="c"># Should see "febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$    ssh -T git@github.com </span>
+The authenticity of host <span class="s1">'github.com (140.82.114.4)'</span> can<span class="s1">'t be established.
+ED25519 key fingerprint is **********************************
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?"
+</span></code></pre></div>    </div>
+    <p>Enter  ´yes´</p>
+  </li>
+  <li>
+    <p><strong>Use SSH URLs</strong> (instead of HTTPS):</p>
+
+    <p>### Check what you’re using now</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <p>(Probably shows: https://github.com/eduardofebresm/something.git)</p>
+
+    <p>### Switch it to SSH</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote set-url origin git@github.com:eduardofebresm/something.git
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>Now you can <code class="language-plaintext highlighter-rouge">git push</code> without passwords.</p>
+
+<h1 id="explanation">Explanation</h1>
+
+<h2 id="step-2-ssh-keygen">Step 2: <code class="language-plaintext highlighter-rouge">ssh-keygen</code></h2>
+<p><strong>What</strong>: Creates two files: a <strong>private key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519</code>) and a <strong>public key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519.pub</code>) in <code class="language-plaintext highlighter-rouge">~/.ssh/</code>
+<strong>Why</strong>: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have.</p>
+
+<h2 id="step-3-cat-sshid_ed25519pub">Step 3: <code class="language-plaintext highlighter-rouge">cat ~/.ssh/id_ed25519.pub</code></h2>
+<p><strong>What</strong>: Displays your public key in the terminal so you can copy it.
+<strong>Why</strong>: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open.</p>
+
+<h2 id="step-4-add-to-github">Step 4: Add to GitHub</h2>
+<p><strong>What</strong>: You paste your public key into GitHub’s web interface.
+<strong>Why</strong>: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you.</p>
+
+<h2 id="step-5-ssh--t-gitgithubcom">Step 5: <code class="language-plaintext highlighter-rouge">ssh -T git@github.com</code></h2>
+<p><strong>What</strong>: Makes a test SSH connection to GitHub.
+<strong>Why</strong>: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.”</p>
+
+<h2 id="step-6-use-ssh-urls">Step 6: Use SSH URLs</h2>
+<p><strong>What</strong>: Instead of <code class="language-plaintext highlighter-rouge">https://github.com/...</code>, you use <code class="language-plaintext highlighter-rouge">git@github.com:...</code> for your repos.
+<strong>Why</strong>: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication.</p>
+
+<p>The magic: When you <code class="language-plaintext highlighter-rouge">git push</code>, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.</p>]]></content><author><name></name></author><category term="guides," /><category term="linux," /><category term="github" /><summary type="html"><![CDATA[Guide Here’s how to set up ubuntu or WSL to push to GitHub via SSH: Note: if SHH is already set up in your current workstation jump to step 6 Check Git identity (skip if already set): git config --global user.name # shows current name if set git config --global user.email # shows current email if set Set them if needed: git config --global user.name "Your Name" git config --global user.email "your_email@example.com" Generate SSH key (creates public/private key pair for GitHub auth): ssh-keygen -t ed25519 -C "your_email@example.com" # Press Enter to accept default location, Enter again for no passphrase (optional) Copy public key (this goes on GitHub): cat ~/.ssh/id_ed25519.pub # Select and copy the entire output Add to GitHub (tell GitHub to trust your computer): Go to github.com/settings/keys “New SSH key”, paste, save Test connection (verify everything works): ssh -T git@github.com # Should see "febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$ ssh -T git@github.com The authenticity of host 'github.com (140.82.114.4)' can't be established. ED25519 key fingerprint is ********************************** This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?" Enter ´yes´ Use SSH URLs (instead of HTTPS): ### Check what you’re using now git remote -v (Probably shows: https://github.com/eduardofebresm/something.git) ### Switch it to SSH git remote set-url origin git@github.com:eduardofebresm/something.git Now you can git push without passwords. Explanation Step 2: ssh-keygen What: Creates two files: a private key (id_ed25519) and a public key (id_ed25519.pub) in ~/.ssh/ Why: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have. Step 3: cat ~/.ssh/id_ed25519.pub What: Displays your public key in the terminal so you can copy it. Why: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open. Step 4: Add to GitHub What: You paste your public key into GitHub’s web interface. Why: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you. Step 5: ssh -T git@github.com What: Makes a test SSH connection to GitHub. Why: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.” Step 6: Use SSH URLs What: Instead of https://github.com/..., you use git@github.com:... for your repos. Why: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication. The magic: When you git push, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.]]></summary></entry><entry><title type="html">Una Cosa</title><link href="/2026/02/23/una-cosa.html" rel="alternate" type="text/html" title="Una Cosa" /><published>2026-02-23T00:00:00+00:00</published><updated>2026-02-23T00:00:00+00:00</updated><id>/2026/02/23/una-cosa</id><content type="html" xml:base="/2026/02/23/una-cosa.html"><![CDATA[<p>9:49 am</p>
+
+<p>*
+Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo.</p>
+
+<p>Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria.</p>
+
+<p>*
+Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea.</p>
+
+<p>La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset</p>
+
+<p>Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero.</p>
+
+<p>*
+Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente.</p>
+
+<p>Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora.</p>
+
+<p>10:50</p>
+
+<p>*
+Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones.</p>
+
+<p>*
+Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición.</p>
+
+<p>*
+Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI.</p>
+
+<p>Los pasos están en un post adjunto.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[9:49 am * Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo. Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria. * Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea. La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero. * Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente. Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora. 10:50 * Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones. * Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición. * Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI. Los pasos están en un post adjunto.]]></summary></entry><entry><title type="html">Crónica de una etiqueta</title><link href="/2025/12/03/cronica-etiqueta.html" rel="alternate" type="text/html" title="Crónica de una etiqueta" /><published>2025-12-03T00:00:00+00:00</published><updated>2025-12-03T00:00:00+00:00</updated><id>/2025/12/03/cronica-etiqueta</id><content type="html" xml:base="/2025/12/03/cronica-etiqueta.html"><![CDATA[<p>Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria.</p>
 
 <p>Durante mi recuperación, me encontré con una etiqueta que me puso en contacto con algo que imagino cercano a la promesa utópica original de Internet: una red donde fundamentalmente se estimula la circulación y el intercambio de conocimiento y aprendizaje. Me refiero a <a href="https://github.com/febr3s/100DH/">#100DaysOfCode</a>, una especie de universo paralelo y bizarro de Twitter donde la gente lo que más hacía era darse ánimo, ayudarse, confesar dificultades y compartir soluciones.</p>
 

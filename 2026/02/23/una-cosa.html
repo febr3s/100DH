@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Una Cosa | 100 días de Humanidades Digitales</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/100DH/favicon.ico">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/100DH/assets/css/main.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Una Cosa | 100 días de Humanidades Digitales</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Una Cosa" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="9:49 am * Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo. Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria. * Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea. La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero. * Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente. Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora. 10:50 * Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones. * Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición. * Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI. Los pasos están en un post adjunto." />
+<meta property="og:description" content="9:49 am * Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo. Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria. * Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea. La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero. * Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente. Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora. 10:50 * Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones. * Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición. * Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI. Los pasos están en un post adjunto." />
+<meta property="og:site_name" content="100 días de Humanidades Digitales" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-02-23T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Una Cosa" />
+<meta name="twitter:site" content="@" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-02-23T00:00:00+00:00","datePublished":"2026-02-23T00:00:00+00:00","description":"9:49 am * Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo. Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria. * Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea. La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero. * Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente. Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora. 10:50 * Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones. * Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición. * Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI. Los pasos están en un post adjunto.","headline":"Una Cosa","mainEntityOfPage":{"@type":"WebPage","@id":"/2026/02/23/una-cosa.html"},"url":"/2026/02/23/una-cosa.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+<body style="background: url('/100DH/assets/img/tema/pattern.png');">
+    <script>0</script>
+    <!--Nav Bar-->
+    <nav class="navBar">
+        <nav class="wrapper">
+            <div class="logo" >
+                <a href="/100DH/index.html"><img src="/100DH/assets/img/tema/logo.png" alt="MOREL" class="logo-img"></a>
+
+            </div>
+
+
+            <input type="checkbox" id="menu-toggle" />
+            <label for="menu-toggle" class="label-toggle"></label>
+            <ul>
+                <li><a href="/100DH/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                <li><a href="/100DH/about"><i class="fa fa-question" aria-hidden="true"></i></a></li>
+            </ul>
+        </nav>
+    </nav>
+        
+        <div class="main-container post-container">
+ <!--Obra del día-->
+    <div class="obra-dia">
+    <div class="post-cover" style="">
+      <div class="ficha-title">
+        <h1>
+          Una Cosa
+        </h1>
+        <div class="podcast-tagline">
+          2026-02-23 00:00:00 +0000
+        </div>
+      </div> 
+    </div>
+    <div class="workarround">
+      
+    </div>
+    <div class="ficha-container sombra-solida blog" style="">
+      <div class="ficha-extract">
+        
+        <div class="blog-post">
+                  <p>9:49 am</p>
+
+<p>*
+Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo.</p>
+
+<p>Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria.</p>
+
+<p>*
+Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea.</p>
+
+<p>La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset</p>
+
+<p>Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero.</p>
+
+<p>*
+Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente.</p>
+
+<p>Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora.</p>
+
+<p>10:50</p>
+
+<p>*
+Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones.</p>
+
+<p>*
+Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición.</p>
+
+<p>*
+Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI.</p>
+
+<p>Los pasos están en un post adjunto.</p>
+
+
+
+        </div>
+      </div>
+      
+      <div class="ficha-metadata">
+        <span class="metadata-input">23 Feb 2026</span> // English version on <span class="metadata-input"><a href="about/#footer">Social media</a></span>.
+      </div>
+      
+      
+    </div>
+   
+                
+  </div>
+</div>
+ 
+</body>
+</html>

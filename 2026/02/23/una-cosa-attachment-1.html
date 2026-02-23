@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>setting up SHH for github on ubuntu or WSL | 100 días de Humanidades Digitales</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/100DH/favicon.ico">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/100DH/assets/css/main.css">
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>setting up SHH for github on ubuntu or WSL | 100 días de Humanidades Digitales</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="setting up SHH for github on ubuntu or WSL" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Guide Here’s how to set up ubuntu or WSL to push to GitHub via SSH: Note: if SHH is already set up in your current workstation jump to step 6 Check Git identity (skip if already set): git config --global user.name # shows current name if set git config --global user.email # shows current email if set Set them if needed: git config --global user.name &quot;Your Name&quot; git config --global user.email &quot;your_email@example.com&quot; Generate SSH key (creates public/private key pair for GitHub auth): ssh-keygen -t ed25519 -C &quot;your_email@example.com&quot; # Press Enter to accept default location, Enter again for no passphrase (optional) Copy public key (this goes on GitHub): cat ~/.ssh/id_ed25519.pub # Select and copy the entire output Add to GitHub (tell GitHub to trust your computer): Go to github.com/settings/keys “New SSH key”, paste, save Test connection (verify everything works): ssh -T git@github.com # Should see &quot;febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$ ssh -T git@github.com The authenticity of host &#39;github.com (140.82.114.4)&#39; can&#39;t be established. ED25519 key fingerprint is ********************************** This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?&quot; Enter ´yes´ Use SSH URLs (instead of HTTPS): ### Check what you’re using now git remote -v (Probably shows: https://github.com/eduardofebresm/something.git) ### Switch it to SSH git remote set-url origin git@github.com:eduardofebresm/something.git Now you can git push without passwords. Explanation Step 2: ssh-keygen What: Creates two files: a private key (id_ed25519) and a public key (id_ed25519.pub) in ~/.ssh/ Why: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have. Step 3: cat ~/.ssh/id_ed25519.pub What: Displays your public key in the terminal so you can copy it. Why: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open. Step 4: Add to GitHub What: You paste your public key into GitHub’s web interface. Why: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you. Step 5: ssh -T git@github.com What: Makes a test SSH connection to GitHub. Why: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.” Step 6: Use SSH URLs What: Instead of https://github.com/..., you use git@github.com:... for your repos. Why: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication. The magic: When you git push, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically." />
+<meta property="og:description" content="Guide Here’s how to set up ubuntu or WSL to push to GitHub via SSH: Note: if SHH is already set up in your current workstation jump to step 6 Check Git identity (skip if already set): git config --global user.name # shows current name if set git config --global user.email # shows current email if set Set them if needed: git config --global user.name &quot;Your Name&quot; git config --global user.email &quot;your_email@example.com&quot; Generate SSH key (creates public/private key pair for GitHub auth): ssh-keygen -t ed25519 -C &quot;your_email@example.com&quot; # Press Enter to accept default location, Enter again for no passphrase (optional) Copy public key (this goes on GitHub): cat ~/.ssh/id_ed25519.pub # Select and copy the entire output Add to GitHub (tell GitHub to trust your computer): Go to github.com/settings/keys “New SSH key”, paste, save Test connection (verify everything works): ssh -T git@github.com # Should see &quot;febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$ ssh -T git@github.com The authenticity of host &#39;github.com (140.82.114.4)&#39; can&#39;t be established. ED25519 key fingerprint is ********************************** This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?&quot; Enter ´yes´ Use SSH URLs (instead of HTTPS): ### Check what you’re using now git remote -v (Probably shows: https://github.com/eduardofebresm/something.git) ### Switch it to SSH git remote set-url origin git@github.com:eduardofebresm/something.git Now you can git push without passwords. Explanation Step 2: ssh-keygen What: Creates two files: a private key (id_ed25519) and a public key (id_ed25519.pub) in ~/.ssh/ Why: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have. Step 3: cat ~/.ssh/id_ed25519.pub What: Displays your public key in the terminal so you can copy it. Why: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open. Step 4: Add to GitHub What: You paste your public key into GitHub’s web interface. Why: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you. Step 5: ssh -T git@github.com What: Makes a test SSH connection to GitHub. Why: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.” Step 6: Use SSH URLs What: Instead of https://github.com/..., you use git@github.com:... for your repos. Why: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication. The magic: When you git push, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically." />
+<meta property="og:site_name" content="100 días de Humanidades Digitales" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2026-02-23T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="setting up SHH for github on ubuntu or WSL" />
+<meta name="twitter:site" content="@" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-02-23T00:00:00+00:00","datePublished":"2026-02-23T00:00:00+00:00","description":"Guide Here’s how to set up ubuntu or WSL to push to GitHub via SSH: Note: if SHH is already set up in your current workstation jump to step 6 Check Git identity (skip if already set): git config --global user.name # shows current name if set git config --global user.email # shows current email if set Set them if needed: git config --global user.name &quot;Your Name&quot; git config --global user.email &quot;your_email@example.com&quot; Generate SSH key (creates public/private key pair for GitHub auth): ssh-keygen -t ed25519 -C &quot;your_email@example.com&quot; # Press Enter to accept default location, Enter again for no passphrase (optional) Copy public key (this goes on GitHub): cat ~/.ssh/id_ed25519.pub # Select and copy the entire output Add to GitHub (tell GitHub to trust your computer): Go to github.com/settings/keys “New SSH key”, paste, save Test connection (verify everything works): ssh -T git@github.com # Should see &quot;febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$ ssh -T git@github.com The authenticity of host &#39;github.com (140.82.114.4)&#39; can&#39;t be established. ED25519 key fingerprint is ********************************** This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?&quot; Enter ´yes´ Use SSH URLs (instead of HTTPS): ### Check what you’re using now git remote -v (Probably shows: https://github.com/eduardofebresm/something.git) ### Switch it to SSH git remote set-url origin git@github.com:eduardofebresm/something.git Now you can git push without passwords. Explanation Step 2: ssh-keygen What: Creates two files: a private key (id_ed25519) and a public key (id_ed25519.pub) in ~/.ssh/ Why: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have. Step 3: cat ~/.ssh/id_ed25519.pub What: Displays your public key in the terminal so you can copy it. Why: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open. Step 4: Add to GitHub What: You paste your public key into GitHub’s web interface. Why: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you. Step 5: ssh -T git@github.com What: Makes a test SSH connection to GitHub. Why: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.” Step 6: Use SSH URLs What: Instead of https://github.com/..., you use git@github.com:... for your repos. Why: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication. The magic: When you git push, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.","headline":"setting up SHH for github on ubuntu or WSL","mainEntityOfPage":{"@type":"WebPage","@id":"/2026/02/23/una-cosa-attachment-1.html"},"url":"/2026/02/23/una-cosa-attachment-1.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+<body style="background: url('/100DH/assets/img/tema/pattern.png');">
+    <script>0</script>
+    <!--Nav Bar-->
+    <nav class="navBar">
+        <nav class="wrapper">
+            <div class="logo" >
+                <a href="/100DH/index.html"><img src="/100DH/assets/img/tema/logo.png" alt="MOREL" class="logo-img"></a>
+
+            </div>
+
+
+            <input type="checkbox" id="menu-toggle" />
+            <label for="menu-toggle" class="label-toggle"></label>
+            <ul>
+                <li><a href="/100DH/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                <li><a href="/100DH/about"><i class="fa fa-question" aria-hidden="true"></i></a></li>
+            </ul>
+        </nav>
+    </nav>
+        
+        <div class="main-container post-container">
+ <!--Obra del día-->
+    <div class="obra-dia">
+    <div class="post-cover" style="">
+      <div class="ficha-title">
+        <h1>
+          setting up SHH for github on ubuntu or WSL
+        </h1>
+        <div class="podcast-tagline">
+          2026-02-23 00:00:00 +0000
+        </div>
+      </div> 
+    </div>
+    <div class="workarround">
+      
+    </div>
+    <div class="ficha-container sombra-solida blog" style="">
+      <div class="ficha-extract">
+        
+        <div class="blog-post">
+                  <h1 id="guide">Guide</h1>
+
+<p>Here’s how to set up ubuntu or WSL to push to GitHub via SSH:</p>
+
+<p>Note:  if SHH is already set up in your current workstation jump to step 6</p>
+
+<ol>
+  <li><strong>Check Git identity</strong> (skip if already set):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name   <span class="c"># shows current name if set</span>
+git config <span class="nt">--global</span> user.email  <span class="c"># shows current email if set</span>
+</code></pre></div>    </div>
+
+    <p>Set them if needed:</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name <span class="s2">"Your Name"</span>
+git config <span class="nt">--global</span> user.email <span class="s2">"your_email@example.com"</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Generate SSH key</strong> (creates public/private key pair for GitHub auth):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen <span class="nt">-t</span> ed25519 <span class="nt">-C</span> <span class="s2">"your_email@example.com"</span>
+<span class="c"># Press Enter to accept default location, Enter again for no passphrase (optional)</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy public key</strong> (this goes on GitHub):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.ssh/id_ed25519.pub
+<span class="c"># Select and copy the entire output</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Add to GitHub</strong> (tell GitHub to trust your computer):
+    <ul>
+      <li>Go to <a href="https://github.com/settings/keys">github.com/settings/keys</a></li>
+      <li>“New SSH key”, paste, save</li>
+    </ul>
+  </li>
+  <li><strong>Test connection</strong> (verify everything works):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh <span class="nt">-T</span> git@github.com
+<span class="c"># Should see "febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$    ssh -T git@github.com </span>
+The authenticity of host <span class="s1">'github.com (140.82.114.4)'</span> can<span class="s1">'t be established.
+ED25519 key fingerprint is **********************************
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?"
+</span></code></pre></div>    </div>
+    <p>Enter  ´yes´</p>
+  </li>
+  <li>
+    <p><strong>Use SSH URLs</strong> (instead of HTTPS):</p>
+
+    <p>### Check what you’re using now</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <p>(Probably shows: https://github.com/eduardofebresm/something.git)</p>
+
+    <p>### Switch it to SSH</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote set-url origin git@github.com:eduardofebresm/something.git
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>Now you can <code class="language-plaintext highlighter-rouge">git push</code> without passwords.</p>
+
+<h1 id="explanation">Explanation</h1>
+
+<h2 id="step-2-ssh-keygen">Step 2: <code class="language-plaintext highlighter-rouge">ssh-keygen</code></h2>
+<p><strong>What</strong>: Creates two files: a <strong>private key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519</code>) and a <strong>public key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519.pub</code>) in <code class="language-plaintext highlighter-rouge">~/.ssh/</code>
+<strong>Why</strong>: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have.</p>
+
+<h2 id="step-3-cat-sshid_ed25519pub">Step 3: <code class="language-plaintext highlighter-rouge">cat ~/.ssh/id_ed25519.pub</code></h2>
+<p><strong>What</strong>: Displays your public key in the terminal so you can copy it.
+<strong>Why</strong>: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open.</p>
+
+<h2 id="step-4-add-to-github">Step 4: Add to GitHub</h2>
+<p><strong>What</strong>: You paste your public key into GitHub’s web interface.
+<strong>Why</strong>: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you.</p>
+
+<h2 id="step-5-ssh--t-gitgithubcom">Step 5: <code class="language-plaintext highlighter-rouge">ssh -T git@github.com</code></h2>
+<p><strong>What</strong>: Makes a test SSH connection to GitHub.
+<strong>Why</strong>: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.”</p>
+
+<h2 id="step-6-use-ssh-urls">Step 6: Use SSH URLs</h2>
+<p><strong>What</strong>: Instead of <code class="language-plaintext highlighter-rouge">https://github.com/...</code>, you use <code class="language-plaintext highlighter-rouge">git@github.com:...</code> for your repos.
+<strong>Why</strong>: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication.</p>
+
+<p>The magic: When you <code class="language-plaintext highlighter-rouge">git push</code>, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.</p>
+
+
+        </div>
+      </div>
+      
+      <div class="ficha-metadata">
+        <span class="metadata-input">23 Feb 2026</span> // English version on <span class="metadata-input"><a href="about/#footer">Social media</a></span>.
+      </div>
+      
+      
+    </div>
+   
+                
+  </div>
+</div>
+ 
+</body>
+</html>
