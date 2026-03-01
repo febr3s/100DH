@@ -1,4 +1,258 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/100DH/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/100DH/" rel="alternate" type="text/html" /><updated>2025-12-03T15:09:26-05:00</updated><id>http://localhost:4000/100DH/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">Crónica de una etiqueta</title><link href="http://localhost:4000/100DH/2025/12/03/cronica-etiqueta.html" rel="alternate" type="text/html" title="Crónica de una etiqueta" /><published>2025-12-03T00:00:00-05:00</published><updated>2025-12-03T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/12/03/cronica-etiqueta</id><content type="html" xml:base="http://localhost:4000/100DH/2025/12/03/cronica-etiqueta.html"><![CDATA[<p>Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/100DH/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/100DH/" rel="alternate" type="text/html" /><updated>2026-03-01T15:41:49-05:00</updated><id>http://localhost:4000/100DH/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">Personal Portfolio</title><link href="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html" rel="alternate" type="text/html" title="Personal Portfolio" /><published>2026-03-01T00:00:00-05:00</published><updated>2026-03-01T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/03/01/personal-portfolio</id><content type="html" xml:base="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Magaze Abstract</title><link href="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html" rel="alternate" type="text/html" title="Magaze Abstract" /><published>2026-02-27T00:00:00-05:00</published><updated>2026-02-27T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/27/magaze-abstract</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html"><![CDATA[<p>BibAV: A Replicable Linked-Data Infrastructure for Participatory Public-Domain Digital Libraries</p>
+
+<p>Digitization has not eliminated infrastructural asymmetries in access to print heritage. Public-domain works frequently remain mediated by proprietary interfaces that constrain downloadability, obscure metadata inconsistencies, and centralize preservation within corporate systems. These conditions disproportionately affect Global South corpora, whose visibility and reuse depend on infrastructures beyond their governance. This paper introduces BibAV (Biblioteca Abierta Venezolana) as a methodological framework for constructing open, participatory, and preservation-oriented digital libraries capable of operating across such constraints.</p>
+
+<p>Initially instantiated through a corpus of Venezuelan public-domain printed works, the project is designed as a transferable model applicable to any authority-controlled bibliographic domain. It integrates scripted extraction of author data from Wikidata, reconciliation of identifiers through VIAF, and automated interrogation of the Google Books API to identify and verify genuinely downloadable materials. These processes operate within a linked open data ecosystem that enables authority normalization and metadata interoperability across platforms. Records are curated in a collaborative Zotero group library functioning as a shared backend, and published via MOREL, an open-source interface developed for dynamic filtering, structured exploration, and reuse. The entire workflow is version-controlled, publicly documented, and supported by open repositories to ensure auditability and long-term traceability.</p>
+
+<p>Audience involvement is implemented through editable metadata structures and distributed governance of bibliographic records. Contributors participate in authority correction, corpus expansion, and documentation practices. Curatorial decisions also address structural underrepresentation by prioritizing the inclusion and visibility of historically marginalized authors within public-domain collections. The infrastructure is designed for pedagogical replication: classrooms and research groups may fork, adapt, and extend the collection within their own collaborative environments.</p>
+
+<p>Currently comprising over 322 publicly accessible titles and undergoing continuous expansion through daily curatorial workflows, BibAV operates as a live research environment. Its contribution to humanistic inquiry lies in enabling reusable corpus construction, supporting bibliographic and intellectual-historical analysis, and establishing a distributed preservation strategy grounded in open standards, linked data integration, and collectively maintainable infrastructures. The model offers a sustainable pathway for securing and activating public-domain cultural heritage under conditions of infrastructural dependency.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[BibAV: A Replicable Linked-Data Infrastructure for Participatory Public-Domain Digital Libraries Digitization has not eliminated infrastructural asymmetries in access to print heritage. Public-domain works frequently remain mediated by proprietary interfaces that constrain downloadability, obscure metadata inconsistencies, and centralize preservation within corporate systems. These conditions disproportionately affect Global South corpora, whose visibility and reuse depend on infrastructures beyond their governance. This paper introduces BibAV (Biblioteca Abierta Venezolana) as a methodological framework for constructing open, participatory, and preservation-oriented digital libraries capable of operating across such constraints. Initially instantiated through a corpus of Venezuelan public-domain printed works, the project is designed as a transferable model applicable to any authority-controlled bibliographic domain. It integrates scripted extraction of author data from Wikidata, reconciliation of identifiers through VIAF, and automated interrogation of the Google Books API to identify and verify genuinely downloadable materials. These processes operate within a linked open data ecosystem that enables authority normalization and metadata interoperability across platforms. Records are curated in a collaborative Zotero group library functioning as a shared backend, and published via MOREL, an open-source interface developed for dynamic filtering, structured exploration, and reuse. The entire workflow is version-controlled, publicly documented, and supported by open repositories to ensure auditability and long-term traceability. Audience involvement is implemented through editable metadata structures and distributed governance of bibliographic records. Contributors participate in authority correction, corpus expansion, and documentation practices. Curatorial decisions also address structural underrepresentation by prioritizing the inclusion and visibility of historically marginalized authors within public-domain collections. The infrastructure is designed for pedagogical replication: classrooms and research groups may fork, adapt, and extend the collection within their own collaborative environments. Currently comprising over 322 publicly accessible titles and undergoing continuous expansion through daily curatorial workflows, BibAV operates as a live research environment. Its contribution to humanistic inquiry lies in enabling reusable corpus construction, supporting bibliographic and intellectual-historical analysis, and establishing a distributed preservation strategy grounded in open standards, linked data integration, and collectively maintainable infrastructures. The model offers a sustainable pathway for securing and activating public-domain cultural heritage under conditions of infrastructural dependency.]]></summary></entry><entry><title type="html">Merging Morel Branches</title><link href="http://localhost:4000/100DH/2026/02/27/merging-morel-branches.html" rel="alternate" type="text/html" title="Merging Morel Branches" /><published>2026-02-27T00:00:00-05:00</published><updated>2026-02-27T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/27/merging-morel-branches</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/27/merging-morel-branches.html"><![CDATA[<h1 id="para-fusionar-una-rama-con-nuevos-features-donde-también-agregué-nuevo-contenido">Para fusionar una rama con nuevos features donde también agregué nuevo contenido</h1>
+
+<p>Estuve dándole muchas vueltas y las conclusiones son:</p>
+
+<ol>
+  <li>Hay que borrar el contenido before merging
+    <ul>
+      <li>Correr el script de clean-output en la rama divergente. Add. Commit.</li>
+      <li>Correr el script de clean-output en la rama principal. Add. Commit.</li>
+      <li>Correr en rama principal “git merge -X theirs “</li>
+      <li>Terminar de arrreglar manualmente los conflictos</li>
+    </ul>
+  </li>
+  <li>Para el caso particular de biva_improvements
+    <ul>
+      <li>Lo primero sería actualizar el script en main porque cuando lo probé borró el avatar y otros asuntos de identidad que no debería. Este paso ya lo di el 1 de marzo, pero lo dejo hasta aquí para intentar el merge otro día, por si surgen complicaciones.</li>
+    </ul>
+  </li>
+</ol>
+
+<h1 id="notas-del-diálogo-con-la-máquina">Notas del diálogo con la máquina</h1>
+
+<h2 id="complex-merging-important-changes-in-both-main-and-divergent-branches">Complex merging (important changes in both main and divergent branches)</h2>
+
+<p><strong>Merging a divergent branch (e.g. branch-b) with changes, and keeping other changes made in main (as long as they don’t conflict with the changes made on branch-b)</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">git checkout main
+git merge -X theirs branch-b  # Your branch wins every conflict
+git push origin main</code></p>
+
+<p><strong>Notes:</strong></p>
+
+<h1 id="conflict">CONFLICT</h1>
+
+<ol>
+  <li><strong>First, check the exact conflict type:</strong>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git status
+</code></pre></div>    </div>
+    <p>Look at the messages. They will tell you exactly what is wrong. For example:</p>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">CONFLICT (rename/delete)</code>: A file was renamed in one branch and deleted in the other.</li>
+      <li><code class="language-plaintext highlighter-rouge">CONFLICT (modify/delete)</code>: A file was deleted in one branch but modified in the other.</li>
+      <li><code class="language-plaintext highlighter-rouge">CONFLICT (add/add)</code>: The same new file exists in both branches with different content.</li>
+    </ul>
+  </li>
+  <li><strong>Based on the <code class="language-plaintext highlighter-rouge">git status</code> output, choose the correct fix:</strong></li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">If <code class="language-plaintext highlighter-rouge">git status</code> says…</th>
+      <th style="text-align: left">Then run this command to resolve it…</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong><code class="language-plaintext highlighter-rouge">CONFLICT (modify/delete)</code></strong><br />File deleted in <code class="language-plaintext highlighter-rouge">main</code>, modified in <code class="language-plaintext highlighter-rouge">branch-b</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">git checkout --theirs -- .</code><br /><code class="language-plaintext highlighter-rouge">git add -A</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong><code class="language-plaintext highlighter-rouge">CONFLICT (rename/delete)</code></strong><br />File renamed in <code class="language-plaintext highlighter-rouge">main</code>, deleted in <code class="language-plaintext highlighter-rouge">branch-b</code></td>
+      <td style="text-align: left"><code class="language-plaintext highlighter-rouge">git checkout --ours -- .</code><br /><code class="language-plaintext highlighter-rouge">git add -A</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong><code class="language-plaintext highlighter-rouge">CONFLICT (add/add)</code></strong><br />Same file added in both branches</td>
+      <td style="text-align: left">Manually decide which version to keep, then <code class="language-plaintext highlighter-rouge">git add</code> that file.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The <code class="language-plaintext highlighter-rouge">--theirs</code> and <code class="language-plaintext highlighter-rouge">--ours</code> in these <code class="language-plaintext highlighter-rouge">git checkout</code> commands refer to the <strong>branches in the merge</strong>:</p>
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">--theirs</code></strong> = <code class="language-plaintext highlighter-rouge">branch-b</code> (the branch you’re merging <em>in</em>)</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">--ours</code></strong> = <code class="language-plaintext highlighter-rouge">main</code> (the branch you’re <em>on</em>)</li>
+</ul>
+
+<ol>
+  <li><strong>After executing the correct command, complete the merge:</strong>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h2 id="simple-merging-if-you-want-the-divergent-branch-to-win-100">Simple merging: (If You Want the divergent branch to Win 100%)</h2>
+
+<p>If you are certain you want the <strong>entire state of your project to match <code class="language-plaintext highlighter-rouge">branch-b</code> exactly</strong>, and you are working alone, you can abort this merge and force it. This will <strong>discard <em>all</em> unique changes from <code class="language-plaintext highlighter-rouge">main</code></strong> since you branched.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Abort the stuck merge</span>
+git merge <span class="nt">--abort</span>
+
+<span class="c"># 2. Use the 'ours' merge strategy (different from -X ours!)</span>
+git merge <span class="nt">-s</span> ours branch-b
+<span class="c"># This creates a merge that ignores ALL changes from branch-b, keeping main as-is.</span>
+
+<span class="c"># 3. Then reset main to exactly match branch-b</span>
+git reset <span class="nt">--hard</span> branch-b
+
+<span class="c"># 4. Force push (⚠️ Only if you work alone and understand this destroys main's history)</span>
+git push <span class="nt">--force-with-lease</span> origin main
+</code></pre></div></div>
+
+<p><strong>Please run <code class="language-plaintext highlighter-rouge">git status</code> first and tell me the exact conflict messages.</strong> That will allow me to give you the precise, single command you need to finish the merge.</p>
+
+<h2 id="single-branch-option">–single-branch option</h2>
+
+<p>The <code class="language-plaintext highlighter-rouge">--single-branch</code> option in the first method is useful when you only need that specific branch and want to save time/space by not downloading the entire history.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Para fusionar una rama con nuevos features donde también agregué nuevo contenido Estuve dándole muchas vueltas y las conclusiones son: Hay que borrar el contenido before merging Correr el script de clean-output en la rama divergente. Add. Commit. Correr el script de clean-output en la rama principal. Add. Commit. Correr en rama principal “git merge -X theirs “ Terminar de arrreglar manualmente los conflictos Para el caso particular de biva_improvements Lo primero sería actualizar el script en main porque cuando lo probé borró el avatar y otros asuntos de identidad que no debería. Este paso ya lo di el 1 de marzo, pero lo dejo hasta aquí para intentar el merge otro día, por si surgen complicaciones. Notas del diálogo con la máquina Complex merging (important changes in both main and divergent branches) Merging a divergent branch (e.g. branch-b) with changes, and keeping other changes made in main (as long as they don’t conflict with the changes made on branch-b) git checkout main git merge -X theirs branch-b # Your branch wins every conflict git push origin main Notes: CONFLICT First, check the exact conflict type: git status Look at the messages. They will tell you exactly what is wrong. For example: CONFLICT (rename/delete): A file was renamed in one branch and deleted in the other. CONFLICT (modify/delete): A file was deleted in one branch but modified in the other. CONFLICT (add/add): The same new file exists in both branches with different content. Based on the git status output, choose the correct fix: If git status says… Then run this command to resolve it… CONFLICT (modify/delete)File deleted in main, modified in branch-b git checkout --theirs -- .git add -A CONFLICT (rename/delete)File renamed in main, deleted in branch-b git checkout --ours -- .git add -A CONFLICT (add/add)Same file added in both branches Manually decide which version to keep, then git add that file. The --theirs and --ours in these git checkout commands refer to the branches in the merge: --theirs = branch-b (the branch you’re merging in) --ours = main (the branch you’re on) After executing the correct command, complete the merge: git commit Simple merging: (If You Want the divergent branch to Win 100%) If you are certain you want the entire state of your project to match branch-b exactly, and you are working alone, you can abort this merge and force it. This will discard all unique changes from main since you branched. # 1. Abort the stuck merge git merge --abort # 2. Use the 'ours' merge strategy (different from -X ours!) git merge -s ours branch-b # This creates a merge that ignores ALL changes from branch-b, keeping main as-is. # 3. Then reset main to exactly match branch-b git reset --hard branch-b # 4. Force push (⚠️ Only if you work alone and understand this destroys main's history) git push --force-with-lease origin main Please run git status first and tell me the exact conflict messages. That will allow me to give you the precise, single command you need to finish the merge. –single-branch option The --single-branch option in the first method is useful when you only need that specific branch and want to save time/space by not downloading the entire history.]]></summary></entry><entry><title type="html">setting up SHH for github on ubuntu or WSL</title><link href="http://localhost:4000/100DH/2026/02/23/una-cosa-attachment-1.html" rel="alternate" type="text/html" title="setting up SHH for github on ubuntu or WSL" /><published>2026-02-23T00:00:00-05:00</published><updated>2026-02-23T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/23/una-cosa-attachment-1</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/23/una-cosa-attachment-1.html"><![CDATA[<h1 id="guide">Guide</h1>
+
+<p>Here’s how to set up ubuntu or WSL to push to GitHub via SSH:</p>
+
+<p>Note:  if SHH is already set up in your current workstation jump to step 6</p>
+
+<ol>
+  <li><strong>Check Git identity</strong> (skip if already set):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name   <span class="c"># shows current name if set</span>
+git config <span class="nt">--global</span> user.email  <span class="c"># shows current email if set</span>
+</code></pre></div>    </div>
+
+    <p>Set them if needed:</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git config <span class="nt">--global</span> user.name <span class="s2">"Your Name"</span>
+git config <span class="nt">--global</span> user.email <span class="s2">"your_email@example.com"</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Generate SSH key</strong> (creates public/private key pair for GitHub auth):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen <span class="nt">-t</span> ed25519 <span class="nt">-C</span> <span class="s2">"your_email@example.com"</span>
+<span class="c"># Press Enter to accept default location, Enter again for no passphrase (optional)</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy public key</strong> (this goes on GitHub):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat</span> ~/.ssh/id_ed25519.pub
+<span class="c"># Select and copy the entire output</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Add to GitHub</strong> (tell GitHub to trust your computer):
+    <ul>
+      <li>Go to <a href="https://github.com/settings/keys">github.com/settings/keys</a></li>
+      <li>“New SSH key”, paste, save</li>
+    </ul>
+  </li>
+  <li><strong>Test connection</strong> (verify everything works):
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh <span class="nt">-T</span> git@github.com
+<span class="c"># Should see "febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$    ssh -T git@github.com </span>
+The authenticity of host <span class="s1">'github.com (140.82.114.4)'</span> can<span class="s1">'t be established.
+ED25519 key fingerprint is **********************************
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?"
+</span></code></pre></div>    </div>
+    <p>Enter  ´yes´</p>
+  </li>
+  <li>
+    <p><strong>Use SSH URLs</strong> (instead of HTTPS):</p>
+
+    <p>### Check what you’re using now</p>
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote <span class="nt">-v</span>
+</code></pre></div>    </div>
+    <p>(Probably shows: https://github.com/eduardofebresm/something.git)</p>
+
+    <p>### Switch it to SSH</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> git remote set-url origin git@github.com:eduardofebresm/something.git
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p>Now you can <code class="language-plaintext highlighter-rouge">git push</code> without passwords.</p>
+
+<h1 id="explanation">Explanation</h1>
+
+<h2 id="step-2-ssh-keygen">Step 2: <code class="language-plaintext highlighter-rouge">ssh-keygen</code></h2>
+<p><strong>What</strong>: Creates two files: a <strong>private key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519</code>) and a <strong>public key</strong> (<code class="language-plaintext highlighter-rouge">id_ed25519.pub</code>) in <code class="language-plaintext highlighter-rouge">~/.ssh/</code>
+<strong>Why</strong>: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have.</p>
+
+<h2 id="step-3-cat-sshid_ed25519pub">Step 3: <code class="language-plaintext highlighter-rouge">cat ~/.ssh/id_ed25519.pub</code></h2>
+<p><strong>What</strong>: Displays your public key in the terminal so you can copy it.
+<strong>Why</strong>: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open.</p>
+
+<h2 id="step-4-add-to-github">Step 4: Add to GitHub</h2>
+<p><strong>What</strong>: You paste your public key into GitHub’s web interface.
+<strong>Why</strong>: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you.</p>
+
+<h2 id="step-5-ssh--t-gitgithubcom">Step 5: <code class="language-plaintext highlighter-rouge">ssh -T git@github.com</code></h2>
+<p><strong>What</strong>: Makes a test SSH connection to GitHub.
+<strong>Why</strong>: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.”</p>
+
+<h2 id="step-6-use-ssh-urls">Step 6: Use SSH URLs</h2>
+<p><strong>What</strong>: Instead of <code class="language-plaintext highlighter-rouge">https://github.com/...</code>, you use <code class="language-plaintext highlighter-rouge">git@github.com:...</code> for your repos.
+<strong>Why</strong>: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication.</p>
+
+<p>The magic: When you <code class="language-plaintext highlighter-rouge">git push</code>, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.</p>]]></content><author><name></name></author><category term="guides," /><category term="linux," /><category term="github" /><summary type="html"><![CDATA[Guide Here’s how to set up ubuntu or WSL to push to GitHub via SSH: Note: if SHH is already set up in your current workstation jump to step 6 Check Git identity (skip if already set): git config --global user.name # shows current name if set git config --global user.email # shows current email if set Set them if needed: git config --global user.name "Your Name" git config --global user.email "your_email@example.com" Generate SSH key (creates public/private key pair for GitHub auth): ssh-keygen -t ed25519 -C "your_email@example.com" # Press Enter to accept default location, Enter again for no passphrase (optional) Copy public key (this goes on GitHub): cat ~/.ssh/id_ed25519.pub # Select and copy the entire output Add to GitHub (tell GitHub to trust your computer): Go to github.com/settings/keys “New SSH key”, paste, save Test connection (verify everything works): ssh -T git@github.com # Should see "febr3s@DESKTOP-12IT2VB:~/wa-gbAPI-gatekeeping$ ssh -T git@github.com The authenticity of host 'github.com (140.82.114.4)' can't be established. ED25519 key fingerprint is ********************************** This key is not known by any other names. Are you sure you want to continue connecting (yes/no/[fingerprint])?" Enter ´yes´ Use SSH URLs (instead of HTTPS): ### Check what you’re using now git remote -v (Probably shows: https://github.com/eduardofebresm/something.git) ### Switch it to SSH git remote set-url origin git@github.com:eduardofebresm/something.git Now you can git push without passwords. Explanation Step 2: ssh-keygen What: Creates two files: a private key (id_ed25519) and a public key (id_ed25519.pub) in ~/.ssh/ Why: SSH uses cryptographic keys instead of passwords. The public key goes on GitHub, the private key stays on your computer. When you connect, GitHub checks if your private key matches the public key they have. Step 3: cat ~/.ssh/id_ed25519.pub What: Displays your public key in the terminal so you can copy it. Why: You need to give this key to GitHub. It’s safe to share - it’s like a lock that only your private key can open. Step 4: Add to GitHub What: You paste your public key into GitHub’s web interface. Why: This tells GitHub “this public key belongs to me.” Later, when you connect with your private key, GitHub recognizes you. Step 5: ssh -T git@github.com What: Makes a test SSH connection to GitHub. Why: Confirms everything is working. GitHub sends back a message saying “I recognize you, here’s your username.” Step 6: Use SSH URLs What: Instead of https://github.com/..., you use git@github.com:... for your repos. Why: HTTPS URLs would ask for username/password (or personal access token). SSH URLs automatically use your SSH key for authentication. The magic: When you git push, Git uses SSH to connect to GitHub. SSH sees you have the private key, GitHub checks it matches your public key, and access is granted automatically.]]></summary></entry><entry><title type="html">Una Cosa</title><link href="http://localhost:4000/100DH/2026/02/23/una-cosa.html" rel="alternate" type="text/html" title="Una Cosa" /><published>2026-02-23T00:00:00-05:00</published><updated>2026-02-23T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/23/una-cosa</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/23/una-cosa.html"><![CDATA[<p>9:49 am</p>
+
+<p>*
+Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo.</p>
+
+<p>Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria.</p>
+
+<p>*
+Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea.</p>
+
+<p>La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset</p>
+
+<p>Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero.</p>
+
+<p>*
+Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente.</p>
+
+<p>Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora.</p>
+
+<p>10:50</p>
+
+<p>*
+Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones.</p>
+
+<p>*
+Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición.</p>
+
+<p>*
+Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI.</p>
+
+<p>Los pasos están en un post adjunto.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[9:49 am * Una cosa es trabajar todos los días en algo, y otra muy distinta trabajar al mismo tiempo en proclamarlo al mundo. Hoy, sin embargo, me asalta la necesidad. O una de las necesidades que conduce el impulso de registrar lo que hacemos o decimos ante terceros. Las migas de pan. La prótesis de memoria. * Hoy, investigando un poco de estrategias para que mi proyecto BibAV encuentre público me encuentro con una herramienta y una idea. La herramienta es Kaggle, y la idea es replicar un proyecto de Google Books dataset: https://www.kaggle.com/datasets/bilalyussef/google-books-dataset Manoseando un poco el script que ya tengo, puedo generar un dataset análogo para la colección BibAV. Y publicar los viernes algún dato curioso o más bien enriquecedor sobre este. Habría que tener en cuenta que mucha información no estaba disponible a priori, sino en mi dataset de Zotero. * Pienso que lo lógico aquí sería agregar en el Extra field el google books id, lo cual es relativamente sencillo porque está incrustado en la url de descarga, en el caso de los que vienen de Google Books. En el caso de los que vienen de otros archivos (que son 30 hasta ahora) habría que conectarlos manualmente. Por otro lado, ¿cuánta información me puede dar Google Books por sí solo? El de “voters” y el de “rating” son los únicos que se me ocurren por ahora. 10:50 * Entrando a verificar esta información, vi que ya casi no entendía el script de workaround para Google Books. Entonces me puse a reconstruir la trama perdida y hacer el borrador para unas instrucciones. * Viendo el contenido de los json usando el buscador de Visual Studio Code, veo que las entradas con datos de popularidad son muy pocos! Y no tengo pruebas pero tampoco dudas de que son precisamente los de dominio público los que no tienen esa exposición. * Me surgió un problemita de los usuales al tratar de hacer push desde vscode a mi repo en WSL. Entonces me puse a averiguar cómo configurar de una vez por todas mi WSL para empujar a GitHub directo cuando me falle el método de UI. Los pasos están en un post adjunto.]]></summary></entry><entry><title type="html">Notes For Json Extra Field</title><link href="http://localhost:4000/100DH/2025/12/20/notes-for-json-extra-field.html" rel="alternate" type="text/html" title="Notes For Json Extra Field" /><published>2025-12-20T00:00:00-05:00</published><updated>2025-12-20T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/12/20/notes-for-json-extra-field</id><content type="html" xml:base="http://localhost:4000/100DH/2025/12/20/notes-for-json-extra-field.html"><![CDATA[<p>Este data file se combinaría con el csv, usando los Zotero key para hacer los matches exactos. El “first edition” vendrá del field “edition”, que se usará combinando con una coma el número de la edición y la fecha de primera edición, si se conoce. Nationality estará hard coded, para conservar la data que nosotros generamos, y subirla a wikidata. Habría que modificar el script viaf-zotero para: 1) que escriba la data en json y no csv; 2) que además de crear la entidad, diga la nacionalidad. Aunque esto sería complicado porque no sé qué referencia usaría para haer el claim.</p>
+
+<p>{
+  “books_extras”: [
+    {
+      “z-key”: “xxx”,
+      “author 1”: {
+        “name”: “J.K. Rowling”,
+        “viaf”: “xxx”,
+        “nationality”: “England”
+      },
+      “author 2”: {
+        “name”: “”,
+        “viaf”: “”,
+        “nationality”: “”
+      },
+      “first_edition”: “1997”
+    },
+    {
+      “z-key”: “yyy”,
+      “author 1”: {
+        “name”: “George Orwell”,
+        “viaf”: “yyy”,
+        “nationality”: “”
+      },
+      “first_edition”: “1949”
+    }
+  ]
+}</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Este data file se combinaría con el csv, usando los Zotero key para hacer los matches exactos. El “first edition” vendrá del field “edition”, que se usará combinando con una coma el número de la edición y la fecha de primera edición, si se conoce. Nationality estará hard coded, para conservar la data que nosotros generamos, y subirla a wikidata. Habría que modificar el script viaf-zotero para: 1) que escriba la data en json y no csv; 2) que además de crear la entidad, diga la nacionalidad. Aunque esto sería complicado porque no sé qué referencia usaría para haer el claim. { “books_extras”: [ { “z-key”: “xxx”, “author 1”: { “name”: “J.K. Rowling”, “viaf”: “xxx”, “nationality”: “England” }, “author 2”: { “name”: “”, “viaf”: “”, “nationality”: “” }, “first_edition”: “1997” }, { “z-key”: “yyy”, “author 1”: { “name”: “George Orwell”, “viaf”: “yyy”, “nationality”: “” }, “first_edition”: “1949” } ] }]]></summary></entry><entry><title type="html">Algunas de las formas en que Google Books dificulta el acceso a su colección con deficiencias en su API</title><link href="http://localhost:4000/100DH/2025/12/19/gatekeeping-by-google-books.html" rel="alternate" type="text/html" title="Algunas de las formas en que Google Books dificulta el acceso a su colección con deficiencias en su API" /><published>2025-12-19T00:00:00-05:00</published><updated>2025-12-19T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/12/19/gatekeeping-by-google-books</id><content type="html" xml:base="http://localhost:4000/100DH/2025/12/19/gatekeeping-by-google-books.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Crónica de una etiqueta</title><link href="http://localhost:4000/100DH/2025/12/03/cronica-etiqueta.html" rel="alternate" type="text/html" title="Crónica de una etiqueta" /><published>2025-12-03T00:00:00-05:00</published><updated>2025-12-03T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/12/03/cronica-etiqueta</id><content type="html" xml:base="http://localhost:4000/100DH/2025/12/03/cronica-etiqueta.html"><![CDATA[<p>Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria.</p>
 
 <p>Durante mi recuperación, me encontré con una etiqueta que me puso en contacto con algo que imagino cercano a la promesa utópica original de Internet: una red donde fundamentalmente se estimula la circulación y el intercambio de conocimiento y aprendizaje. Me refiero a <a href="https://github.com/febr3s/100DH/">#100DaysOfCode</a>, una especie de universo paralelo y bizarro de Twitter donde la gente lo que más hacía era darse ánimo, ayudarse, confesar dificultades y compartir soluciones.</p>
 
@@ -8,4 +262,80 @@
 
 <p>Sumo a la etiqueta original <strong>#100DaysOfDH</strong>, que es lo que en realidad estoy haciendo de todas formas, hace no sé si cien, pero sí muchos días, y sobre todo un día a la vez.</p>
 
-<p>Mañana vemos si sigue, y si va a ser un solo de piano o un coro.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria. Durante mi recuperación, me encontré con una etiqueta que me puso en contacto con algo que imagino cercano a la promesa utópica original de Internet: una red donde fundamentalmente se estimula la circulación y el intercambio de conocimiento y aprendizaje. Me refiero a #100DaysOfCode, una especie de universo paralelo y bizarro de Twitter donde la gente lo que más hacía era darse ánimo, ayudarse, confesar dificultades y compartir soluciones. El 14 de abril de 2022, una entidad que llamaré Lex Luthor anunció que se apropiaría de la plataforma digital donde esa etiqueta (y la red de interacciones que esta propicia) habitaban. La etiqueta todavía está ahí, probablemente, pero dado mi historial, yo no pude o no quise seguir dándole minutos de mi vida a esa plataforma. Cuando publico esto, aún no sé si #100DaysOfCode ya tiene en BlueSky o Mastodon una tracción similar a la que alcanzó en la plataforma que ahora es de Lex Luthor. Pero hace ya más de un año que entré en BlueSky y tras unas pocas interacciones recibí la generosa bienvenida de más desconocidos de los que esperaba. Desde entonces he estado paralizado, o más bien estacionado, esperando a saber cómo utilizar esta plataforma sin desviaciones tóxicas, y la verdad es que esta gringada del reto autoproclamado ante una audiencia que no lo pidió, es la opción con que me siento más cómodo, útil y seguro. Sumo a la etiqueta original #100DaysOfDH, que es lo que en realidad estoy haciendo de todas formas, hace no sé si cien, pero sí muchos días, y sobre todo un día a la vez. Mañana vemos si sigue, y si va a ser un solo de piano o un coro.]]></summary></entry></feed>
+<p>Mañana vemos si sigue, y si va a ser un solo de piano o un coro.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Cuando todo esto comenzó y por mucho tiempo, mi uso de plataformas digitales estuvo mayormente dirigido por el consumo problemático de pasiones ideológicas y por la propagación de opiniones no solicitadas. Dejé de usarlas así hace ya bastantes años: más o menos el mismo tiempo que me tomó desde nacer hasta comenzar primaria. Durante mi recuperación, me encontré con una etiqueta que me puso en contacto con algo que imagino cercano a la promesa utópica original de Internet: una red donde fundamentalmente se estimula la circulación y el intercambio de conocimiento y aprendizaje. Me refiero a #100DaysOfCode, una especie de universo paralelo y bizarro de Twitter donde la gente lo que más hacía era darse ánimo, ayudarse, confesar dificultades y compartir soluciones. El 14 de abril de 2022, una entidad que llamaré Lex Luthor anunció que se apropiaría de la plataforma digital donde esa etiqueta (y la red de interacciones que esta propicia) habitaban. La etiqueta todavía está ahí, probablemente, pero dado mi historial, yo no pude o no quise seguir dándole minutos de mi vida a esa plataforma. Cuando publico esto, aún no sé si #100DaysOfCode ya tiene en BlueSky o Mastodon una tracción similar a la que alcanzó en la plataforma que ahora es de Lex Luthor. Pero hace ya más de un año que entré en BlueSky y tras unas pocas interacciones recibí la generosa bienvenida de más desconocidos de los que esperaba. Desde entonces he estado paralizado, o más bien estacionado, esperando a saber cómo utilizar esta plataforma sin desviaciones tóxicas, y la verdad es que esta gringada del reto autoproclamado ante una audiencia que no lo pidió, es la opción con que me siento más cómodo, útil y seguro. Sumo a la etiqueta original #100DaysOfDH, que es lo que en realidad estoy haciendo de todas formas, hace no sé si cien, pero sí muchos días, y sobre todo un día a la vez. Mañana vemos si sigue, y si va a ser un solo de piano o un coro.]]></summary></entry><entry><title type="html">some known issues</title><link href="http://localhost:4000/100DH/2025/12/02/known-issues.html" rel="alternate" type="text/html" title="some known issues" /><published>2025-12-02T00:00:00-05:00</published><updated>2025-12-02T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/12/02/known-issues</id><content type="html" xml:base="http://localhost:4000/100DH/2025/12/02/known-issues.html"><![CDATA[<p>Run <code class="language-plaintext highlighter-rouge">git config --global core.longpaths true</code> to avoid the 260-characters limit for files, if you have one like that</p>
+
+<p>If you are using Zotero on Windows but running your commands on the WSL, the generator won’t find your files. You need to run Zotero also on WSL</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Run git config --global core.longpaths true to avoid the 260-characters limit for files, if you have one like that If you are using Zotero on Windows but running your commands on the WSL, the generator won’t find your files. You need to run Zotero also on WSL]]></summary></entry><entry><title type="html">debugging name processing</title><link href="http://localhost:4000/100DH/2025/11/27/debugging-dariah.html" rel="alternate" type="text/html" title="debugging name processing" /><published>2025-11-27T00:00:00-05:00</published><updated>2025-11-27T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2025/11/27/debugging-dariah</id><content type="html" xml:base="http://localhost:4000/100DH/2025/11/27/debugging-dariah.html"><![CDATA[<h1 id="all-errors-and-warnings">all errors and warnings</h1>
+
+<h2 id="on-image-names">On image names</h2>
+
+<p>Template: Python slugifies “” as “”, but Jekyll slugifies it as “
+	“.</p>
+
+<h3 id="problem">Problem</h3>
+
+<p>Python slugifies “Eine kleine Enzyklopädie der digitalen Langzeitarchivierung” as “eine-kleine-enzyklopa-die-der-2010”, but Jekyll slugifies it as “
+	/dariah/assets/img/eine-kleine-enzyklopa-die-der–2010”.</p>
+
+<h3 id="solution">Solution</h3>
+
+<p>add zotero key instead of author when no author available</p>
+
+<h3 id="problem-1">Problem</h3>
+
+<p>Python slugifies “Le réseau pensant: pour comprendre la société numérique” as “le-ra-c-seau-pensant-pour-lardellier-2007”, but Jekyll slugifies it as “
+	le-ra-seau-pensant-pour-lardellier-2007”.</p>
+
+<p>Similar for:</p>
+
+<p>big-data-a-revolution-mayer-scha-nberger-2013.jpg and others (titles or authors that have special characters)</p>
+
+<h3 id="solution-1">Solution</h3>
+
+<p>To be defined, probably something to do with the UTF8 issue</p>
+
+<h3 id="problem-2">Problem</h3>
+
+<p>Template: Python slugifies “How we think : digital media and contemporary technogenesis” as “how-we-think-hayles-2012”, but Jekyll slugifies it as “
+	how-we-think-digital-hayles-2012”.</p>
+
+<h2 id="solution-2">Solution</h2>
+
+<p>Something to do with the colon</p>
+
+<h1 id="on-other-issues">On other issues</h1>
+
+<h2 id="character-rendering">Character rendering</h2>
+
+<p>“Eine kleine Enzyklopädie der digitalen Langzeitarchivierung” is rendered by Python as “Eine kleine EnzyklopÃ¤die der digitalen Langzeitarchivierung”</p>
+
+<p>“Le rÃ©seau pensant: pour comprendre la sociÃ©tÃ© numÃ©rique”</p>
+
+<p>“Examen des comportements sociaux induits par Internet et l’usage quotidien des autoroutes de l’information. Autour de quatre thÃ¨mes (Ã©pistÃ©mologie, politique, Ã©ducation et culture numÃ©rique), les intervenants enquÃªtent sur ce dispositif sociotechnique qui a bouleversÃ© la sociÃ©tÃ©.”</p>
+
+<p>“Viktor Mayer-SchÃ¶nberger”</p>
+
+<p>“L’Ãªtre et l’Ã©cran comment le numÃ©rique change la perception”</p>
+
+<h2 id="non-permited-characters-on-jekyll-build">Non permited characters on jekyll build</h2>
+
+<h3 id="titles">titles</h3>
+
+<ul>
+  <li>“Digitale Editionsformen. Zum Umgang mit der Ãberlieferung unter den Bedingungen des Medienwandels. Teil 2: Befunde, Theorie und Methodik” (title)</li>
+  <li>“SAGW-Bulletin: Dossier “Digital Humanities und Web 2.0”” (title)</li>
+  <li>“The Power of Words: Unveiling the Speaker and Writerâs Hidden Craft”</li>
+</ul>
+
+<h3 id="author">author</h3>
+
+<ul>
+  <li>DuÅa, Adrian (author)</li>
+</ul>
+
+<h1 id="publisher">Publisher</h1>
+
+<ul>
+  <li>Frankfurt am Main: Lang 1995 (sin comillas)</li>
+  <li>MÃ¼nchen: Fink 1995 (sin comillas)</li>
+  <li>TÃ¼bingen: Gunter Narr 1995</li>
+</ul>]]></content><author><name></name></author><category term="MOREL," /><category term="DARIAH," /><category term="Jekyll," /><category term="Zotero" /><summary type="html"><![CDATA[all errors and warnings On image names Template: Python slugifies “” as “”, but Jekyll slugifies it as “ “. Problem Python slugifies “Eine kleine Enzyklopädie der digitalen Langzeitarchivierung” as “eine-kleine-enzyklopa-die-der-2010”, but Jekyll slugifies it as “ /dariah/assets/img/eine-kleine-enzyklopa-die-der–2010”. Solution add zotero key instead of author when no author available Problem Python slugifies “Le réseau pensant: pour comprendre la société numérique” as “le-ra-c-seau-pensant-pour-lardellier-2007”, but Jekyll slugifies it as “ le-ra-seau-pensant-pour-lardellier-2007”. Similar for: big-data-a-revolution-mayer-scha-nberger-2013.jpg and others (titles or authors that have special characters) Solution To be defined, probably something to do with the UTF8 issue Problem Template: Python slugifies “How we think : digital media and contemporary technogenesis” as “how-we-think-hayles-2012”, but Jekyll slugifies it as “ how-we-think-digital-hayles-2012”. Solution Something to do with the colon On other issues Character rendering “Eine kleine Enzyklopädie der digitalen Langzeitarchivierung” is rendered by Python as “Eine kleine EnzyklopÃ¤die der digitalen Langzeitarchivierung” “Le rÃ©seau pensant: pour comprendre la sociÃ©tÃ© numÃ©rique” “Examen des comportements sociaux induits par Internet et l’usage quotidien des autoroutes de l’information. Autour de quatre thÃ¨mes (Ã©pistÃ©mologie, politique, Ã©ducation et culture numÃ©rique), les intervenants enquÃªtent sur ce dispositif sociotechnique qui a bouleversÃ© la sociÃ©tÃ©.” “Viktor Mayer-SchÃ¶nberger” “L’Ãªtre et l’Ã©cran comment le numÃ©rique change la perception” Non permited characters on jekyll build titles “Digitale Editionsformen. Zum Umgang mit der Ãberlieferung unter den Bedingungen des Medienwandels. Teil 2: Befunde, Theorie und Methodik” (title) “SAGW-Bulletin: Dossier “Digital Humanities und Web 2.0”” (title) “The Power of Words: Unveiling the Speaker and Writerâs Hidden Craft” author DuÅa, Adrian (author) Publisher Frankfurt am Main: Lang 1995 (sin comillas) MÃ¼nchen: Fink 1995 (sin comillas) TÃ¼bingen: Gunter Narr 1995]]></summary></entry></feed>
