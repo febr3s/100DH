@@ -1,6 +1,7 @@
 ---
 title: setting up SHH for github on ubuntu or WSL
 tags: guides, linux, github
+ai: https://chat.deepseek.com/share/f7btyg2j6lehl1wrq9
 ---
 
 # Guide
@@ -62,6 +63,26 @@ Note:  if SHH is already set up in your current workstation jump to step 6
     ```
 
 Now you can `git push` without passwords.
+
+## For organization repos
+
+The procedure is **exactly the same** as for your personal repos.  
+Since you already set up SSH for your GitHub user, and you own the organization, you already have access.
+
+1. **Get the SSH URL** of the organization repo (not HTTPS).  
+   Example: `git@github.com:your-organization/repo-name.git`
+
+2. **Update your local repo’s remote** (if it’s already cloned via HTTPS):  
+   ```bash
+   git remote set-url origin git@github.com:your-organization/repo-name.git
+   ```
+
+3. **Push as usual**:  
+   ```bash
+   git push
+   ```
+
+That’s it. SSH authentication works the same regardless of whether the repo belongs to you or your organization—it’s tied to your GitHub user account, not the repo owner.
 
 # Explanation
 

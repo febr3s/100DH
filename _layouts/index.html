@@ -1,41 +1,49 @@
 ---
 layout: default
 ---
-        <h1 class="index">{{ site.tagline }}</h1>
-        
        
 
-        <!--Búsqueda-->
-        <a href="search"><div class="search-index"><i class="fa fa-search" aria-hidden="true" class="search-index"></i></div></a>
+        <h1 class="index">{{ site.tagline }}</h1>
         
+        <!--Búsqueda-->
+        <a href="buscar"><div class="search-index"><i class="fa fa-search" aria-hidden="true" class="search-index"></i></div></a>
+        
+        
+        <div class="row obras">
+        <h2 class="index">Listas dinámicas por:</h2>
+        </div>
+        {% include criterios.html %}
+       
         <!-- Presentación del proyecto -->
         {% include project-presentation.html %}
 
 
         <!-- One random book -->
         <div class="row obras obra-suerte">
-            <h2 class="index">One book by chance</h2>
+            <h2 class="index">{% if site.lang == "es" %}Obra del día{% else %}One book by chance{% endif %}</h2>
         </div>
         {% include book-sample.html %}
 
+        <!--Español-->
+        <div class="row obras">
+            <h2 class="index">{% if site.lang == "es" %}Algunos libros en español{% else %}Some books in Spanish{% endif %}</h2>
+        </div>
+        {% include book-list-es.html %}
 
         <!--Últimas siete traducciones registradas -->        
         <div class="row obras obra-suerte">
-            <h2 class="index">Some book translations</h2>
+            <h2 class="index">{% if site.lang == "es" %}Algunas traducciones{% else %}Some book translations{% endif %}</h2>
         </div>
         {% include book-list-translations.html %}
        
-
-        <!--Descargables-->
+        <!--Francés-->
         <div class="row obras">
-            <h2 class="index">Some books for download</h2>
+            <h2 class="index">{% if site.lang == "es" %}Algunos libros en francés{% else %}Some books in French{% endif %}</h2>
         </div>
-        {% include book-list-download.html %}
+        {% include book-list-fr.html %}
 
-        <!--No descargables-->
+        <!--Alemán-->
         <div class="row obras">
-            <h2 class="index">More books to browse</h2>
+            <h2 class="index">{% if site.lang == "es" %}Algunos libros en alemán{% else %}Some books in German{% endif %}</h2>
         </div>
-         {% include book-list-no-download.html %}
-        
-       
+        {% include book-list-de.html %}

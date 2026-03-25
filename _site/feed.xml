@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/100DH/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/100DH/" rel="alternate" type="text/html" /><updated>2026-03-01T15:41:49-05:00</updated><id>http://localhost:4000/100DH/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">Personal Portfolio</title><link href="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html" rel="alternate" type="text/html" title="Personal Portfolio" /><published>2026-03-01T00:00:00-05:00</published><updated>2026-03-01T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/03/01/personal-portfolio</id><content type="html" xml:base="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Magaze Abstract</title><link href="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html" rel="alternate" type="text/html" title="Magaze Abstract" /><published>2026-02-27T00:00:00-05:00</published><updated>2026-02-27T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/27/magaze-abstract</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html"><![CDATA[<p>BibAV: A Replicable Linked-Data Infrastructure for Participatory Public-Domain Digital Libraries</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/100DH/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/100DH/" rel="alternate" type="text/html" /><updated>2026-03-06T08:16:30-05:00</updated><id>http://localhost:4000/100DH/feed.xml</id><title type="html">100 días de Humanidades Digitales</title><entry><title type="html">Personal Portfolio</title><link href="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html" rel="alternate" type="text/html" title="Personal Portfolio" /><published>2026-03-01T00:00:00-05:00</published><updated>2026-03-01T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/03/01/personal-portfolio</id><content type="html" xml:base="http://localhost:4000/100DH/2026/03/01/personal-portfolio.html"><![CDATA[<p>Empecé tratando de configurar 100DH como mi portafolio, pero luego hay muchas cosas en contra. La más importante, y que debo evitar a futuro, es que no tengo claro cómo fusionar las mejoras al blog que hice en este fork de la plantilla con los biva_improvements. Para evitar esto en el futuro, siempre hay que trabajar con el sistema de las ramas divergentes, idealmente. Si la rama divergente no es lo suficientemente independiente, entonces llevar un control de qué está mejorándose en cada fork.</p>
+
+<p>Entonces lo que pienso es que 100DH sería simplemente otro proyecto, y que su biblioteca se restringiría a las referencias que use en cada post.</p>
+
+<p>El proyecto porfafolio sería entonces una página con esta estructura</p>
+
+<ul>
+  <li>Index
+    <ul>
+      <li>h1.title: Portafolio resumido de Eduardo Febres
+        <ul>
+          <li>h1: Historia cultural latinoamericana. Humanidades públicas. Gestión de proyectos editoriales y digitales.</li>
+          <li>h2: Más de 20 años en docencia y medios de comunicación
+            <ul>
+              <li>p: Bio del LinkedIN (aquí, cambiar los íconos del costado por LinkedIN, X, etc)</li>
+            </ul>
+          </li>
+          <li>Recuadros: ｜Gestión de proyectos ｜Docencia ｜Escritura creativa ｜Programación</li>
+          <li>[Quitar promoción pre-footer]</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Gestión de proyectos</li>
+  <li>Docencia</li>
+  <li>Escritura creativa</li>
+  <li>Programación
+    <ul>
+      <li>100 días de HD</li>
+      <li></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Empecé tratando de configurar 100DH como mi portafolio, pero luego hay muchas cosas en contra. La más importante, y que debo evitar a futuro, es que no tengo claro cómo fusionar las mejoras al blog que hice en este fork de la plantilla con los biva_improvements. Para evitar esto en el futuro, siempre hay que trabajar con el sistema de las ramas divergentes, idealmente. Si la rama divergente no es lo suficientemente independiente, entonces llevar un control de qué está mejorándose en cada fork. Entonces lo que pienso es que 100DH sería simplemente otro proyecto, y que su biblioteca se restringiría a las referencias que use en cada post. El proyecto porfafolio sería entonces una página con esta estructura Index h1.title: Portafolio resumido de Eduardo Febres h1: Historia cultural latinoamericana. Humanidades públicas. Gestión de proyectos editoriales y digitales. h2: Más de 20 años en docencia y medios de comunicación p: Bio del LinkedIN (aquí, cambiar los íconos del costado por LinkedIN, X, etc) Recuadros: ｜Gestión de proyectos ｜Docencia ｜Escritura creativa ｜Programación [Quitar promoción pre-footer] Gestión de proyectos Docencia Escritura creativa Programación 100 días de HD]]></summary></entry><entry><title type="html">Magaze Abstract</title><link href="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html" rel="alternate" type="text/html" title="Magaze Abstract" /><published>2026-02-27T00:00:00-05:00</published><updated>2026-02-27T00:00:00-05:00</updated><id>http://localhost:4000/100DH/2026/02/27/magaze-abstract</id><content type="html" xml:base="http://localhost:4000/100DH/2026/02/27/magaze-abstract.html"><![CDATA[<p>BibAV: A Replicable Linked-Data Infrastructure for Participatory Public-Domain Digital Libraries</p>
 
 <p>Digitization has not eliminated infrastructural asymmetries in access to print heritage. Public-domain works frequently remain mediated by proprietary interfaces that constrain downloadability, obscure metadata inconsistencies, and centralize preservation within corporate systems. These conditions disproportionately affect Global South corpora, whose visibility and reuse depend on infrastructures beyond their governance. This paper introduces BibAV (Biblioteca Abierta Venezolana) as a methodological framework for constructing open, participatory, and preservation-oriented digital libraries capable of operating across such constraints.</p>
 
